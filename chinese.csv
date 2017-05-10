@@ -1,0 +1,924 @@
+Restaurant name,Street address,City,State,Zip,Phone,Number of reviews, Rating, Price range
+China Boy,815 6th St NW,Washington,DC,20001,(202) 371-1661,292,4.0,1
+Da Hong Pao,1409 14th St NW,Washington,DC,20005,(202) 846-7229,86,4.0,2
+Sichuan Pavilion,1814 K St NW,Washington,DC,20006,(202) 466-7790,722,3.5,2
+Copycat Co,1110 H St NE,Washington,DC,20002,(202) 241-1952,250,4.5,2
+Shanghai Lounge,1734 Wisconsin Ave NW,Washington,DC,20007,(202) 338-1588,289,4.0,2
+ching ching CHA,1063 Wisconsin Ave NW,Washington,DC,20007,(202) 333-8288,228,4.5,2
+Dumplings & Beyond,2400 Wisconsin Ave NW,Washington,DC,20007,(202) 338-3815,175,4.0,2
+Hong Kong Carryout,1506 E Capitol St NE,Washington,DC,20003,(202) 546-5528,57,4.0,1
+Panda Gourmet,2700 New York Ave NE,Washington,DC,20002,(202) 636-3588,244,4.0,2
+People’s Bao,None,Washington,DC,20010,(202) 321-6966,18,4.5,1
+14th St Cafe Asian Bistro,1416 14th St NW,Washington,DC,20005,(202) 588-0695,88,4.0,2
+New Dynasty,2020 P St NW,Washington,DC,20036,(202) 872-8889,195,4.0,1
+Great Wall Szechuan House,1527 14th St NW,Washington,DC,20005,(202) 797-8888,408,3.5,2
+The Source,575 Pennsylvania Ave NW,Washington,DC,20565,(202) 637-6100,591,4.0,3
+China Town Carryout,3207 Mt Pleasant St NW,Washington,DC,20010,(202) 332-8955,50,4.0,1
+Twin Dragon Carry Out,5504 3rd St NW,Washington,DC,20011,(202) 545-0033,57,4.0,1
+Chao Ku,1414 9th St NW,Washington,DC,20001,(202) 319-9375,37,4.0,2
+Shanghai Tokyo Cafe,1376 Park Rd NW,Washington,DC,20010,(202) 846-7953,73,4.0,2
+Tsim Yung,3625 12th St NE,Washington,DC,20017,(202) 635-1318,50,3.5,1
+Chen’s Gourmet Chinese Carryout,5117 MacArthur Blvd NW,Washington,DC,20016,(202) 364-8313,55,3.5,1
+Kyirisan,1924 Eighth St. NW,Washington,DC,20001,(202) 525-2942,85,4.0,3
+Jenny’s At The Wharf,668 Water St SW,Washington,DC,20024,(202) 554-2202,24,4.5,2
+Harmony Café,3287 M St NW,Washington,DC,20007,(202) 338-3881,204,4.0,1
+Szechuan House,515 8th St SE,Washington,DC,20003,(202) 546-5303,45,3.5,2
+Hong Kong,4817 Georgia Ave NW,Washington,DC,20011,(202) 829-7900,36,3.5,1
+Sichuan Express,1825 I St NW,Washington,DC,20006,(202) 466-2038,43,3.5,1
+Dragon Express,1855 7th St NW,Washington,DC,20001,(202) 234-9803,39,3.5,1
+Eastern Carryout,1784 Florida Ave NW,Washington,DC,20009,(202) 483-1931,107,3.5,1
+Ming’s Restaurant,617 H St NW,Washington,DC,20001,(202) 289-1001,457,3.0,2
+Meiwah Restaurant,1200 New Hampshire Ave NW,Washington,DC,20036,(202) 833-2888,343,3.0,2
+Yum’s II Carryout,1413 14th St NW,Washington,DC,20005,(202) 232-5608,89,3.5,1
+Asian American Restaurant,1209 Brentwood Rd NE,Washington,DC,20018,(202) 832-7332,46,3.5,1
+Little China Cafe,4830 MacArthur Blvd NW,Washington,DC,20007,(202) 338-2392,31,3.5,2
+Grand China Carry-Out,3306 11th St NW,Washington,DC,20010,(202) 462-2436,4,4.0,1
+Chalin’s Restaurant,1912 I St NW,Washington,DC,20006,(202) 293-6000,100,3.0,2
+City Lights of China,1731 Connecticut Ave NW,Washington,DC,20009,(202) 265-6688,224,3.0,2
+Ping Pong Dim Sum,900 7th St NW,Washington,DC,20001,(202) 506-3740,1313,3.0,2
+Hunan Dynasty,215 Pennsylvania Ave SE,Washington,DC,20003,(202) 546-6161,129,3.0,2
+Full Kee Restaurant,509 H St NW,Washington,DC,20001,(202) 371-2233,441,3.0,2
+Chinatown Express,746 6th St NW,Washington,DC,20001,(202) 638-0424,938,3.0,1
+Eddie’s Cafe,2600 Connecticut Ave NW,Washington,DC,20008,(202) 667-3939,84,3.5,1
+Bambu,5101 MacArthur Blvd NW,Washington,DC,20016,(202) 364-3088,79,3.0,2
+Panda of DC,1807 W Virginia Ave NE,Washington,DC,20002,(202) 526-8478,33,3.5,2
+Mr. Chen’s Organic Chinese Cuisine,2604 Connecticut Ave N,Washington,DC,20008,(202) 797-9668,250,3.0,2
+New Big Wong Chinese Restaurant,610 H St NW,Washington,DC,20001,(202) 628-0491,307,3.0,2
+Wok and Roll,2400 18th Nw St,Washington,DC,20009,(202) 588-5888,162,3.0,2
+Full Yum Carry Out,1501 N Capitol St NE,Washington,DC,20002,(202) 832-0637,13,3.5,1
+Young Chow Asian,312 Pennsylvania Ave SE,Washington,DC,20003,(202) 544-3030,132,3.0,2
+Peking Express,1338 U St NW,Washington,DC,20009,(202) 986-3939,59,3.0,1
+Peking Garden,2008 18th St NW,Washington,DC,20009,(202) 588-0088,72,3.0,1
+Wah Mee Restaurant,1604 Rhode Island Ave NE,Washington,DC,20018,(202) 529-3929,10,4.0,1
+1 Fish 2 Fish,2423 Pennsylvania Ave NW,Washington,DC,20037,(202) 822-0977,159,3.0,1
+Howard China,2827 Georgia Ave NW,Washington,DC,20001,(202) 332-9461,27,3.5,1
+Dannie’s Carry Out,830 Upshur St NW,Washington,DC,20011,(202) 829-7100,19,3.5,1
+Wahsing Restaurant,2521 Pennsylvania Ave SE,Washington,DC,20020,(202) 581-4500,25,3.5,2
+Kitchen No 1,3208 O St NW,Washington,DC,20007,(202) 342-6333,58,3.0,1
+Fortune Express,4726 14th St NW,Washington,DC,20011,(202) 723-3278,37,3.0,1
+Chinese Dragon,103 Rhode Island Ave NW,Washington,DC,20001,(202) 234-4640,19,3.0,1
+Jerry’s Carry Out,2016 Georgia Ave NW,Washington,DC,20001,(202) 462-8740,6,4.0,1
+Magic Gourd Restaurant,528 23rd St NW,Washington,DC,20037,(202) 466-3995,49,3.0,2
+Spring Garden,4916 Wisconsin Ave NW,Washington,DC,20016,(202) 363-1698,41,3.0,2
+Johnnys Carryout,3445 14th St NW,Washington,DC,20010,(202) 667-1761,22,3.5,1
+Eddie’s,1251 Bladensburg Rd NE,Washington,DC,20002,(202) 399-1725,22,3.5,1
+Asian American II,1439 11th St NW,Washington,DC,20001,(202) 601-2982,19,3.0,1
+Reren,817 7th St NW,Washington,DC,20001,(202) 290-3677,149,4.0,2
+China House,1601 Benning Rd NE,Washington,DC,20002,(202) 396-9041,4,3.5,1
+New Tong Shin,3901 12th St NE,Washington,DC,20017,(202) 832-9042,21,3.5,1
+Joy Luck House,748 6th St NW,Washington,DC,20001,(202) 628-1668,115,3.0,1
+Mayflower Chinese Food,4427 Wisconsin Ave NW,Washington,DC,20016,(202) 244-8858,74,2.0,1
+North Sea Restaurant,2479 18th St NW,Washington,DC,20009,(202) 332-7628,183,2.5,2
+Yeungfong Chinese Restaurant,1701 N Capitol St NE,Washington,DC,20002,(202) 832-3869,29,2.5,1
+Major’s,714 H St NE,Washington,DC,20002,(202) 543-8866,28,3.0,1
+Northsea and Young Chow,2479 18 St NW,Washington,DC,20009,,2,4.5,0
+Panda Cafe,2138 Pennsylvania Ave NW,Washington,DC,20037,(202) 296-1950,53,2.5,1
+Lucky Carryout,1430 Pennsylvania Ave SE,Washington,DC,20003,(202) 544-3663,30,2.5,1
+Grand China Carryout,1201 S Capitol St SW,Washington,DC,20003,(202) 554-8203,14,3.0,1
+Eat First Restaurant,609 H St NW,Washington,DC,20001,(202) 289-1703,229,3.0,1
+Big China,2135 4th St NE,Washington,DC,20002,(202) 526-6877,12,3.5,1
+Mayflower Restaurant,3066 Mt Pleasant St NW,Washington,DC,20009,(202) 299-9502,15,3.0,1
+China Wonder,2301 Georgia Ave NW,Washington,DC,20001,(202) 265-8136,13,3.0,1
+Johnny’s Carryout,1913 Michigan Ave NE,Washington,DC,20018,(202) 269-4046,7,3.5,1
+Eddie Leonard,3300 Georgia Ave NW,Washington,DC,20010,(202) 882-4277,16,3.0,1
+George’s Carry Out,4910 Georgia Ave NW,Washington,DC,20011,(202) 726-7775,16,3.5,1
+Yum’s Carry Out,1023 Bladensburg Rd NE,Washington,DC,20002,(202) 399-4900,5,3.5,1
+Tony Cheng’s Mongolian Restaurant,619 H St NW,Washington,DC,20001,(202) 842-8669,151,3.0,2
+Dandy’s,2008 9th St NW,Washington,DC,20001,(202) 332-0518,14,2.5,1
+City Buffet Restaurant,1101 14th St NW,Washington,DC,20005,(202) 898-1698,51,2.0,2
+China Cafe III,1723 Connecticut Ave NW,Washington,DC,20009,,2,4.0,0
+Golden China Carry Out,1703 6th St NW,Washington,DC,20001,(202) 232-0422,25,2.0,1
+Apple Carry Out,5910 Georgia Ave NW,Washington,DC,20011,(202) 291-4160,9,3.0,1
+Hong Kong Palace,6387 Seven Corners Shopping Ctr,Falls Church,VA,22044,(703) 532-0940,329,4.0,2
+New China Taste,5910 N Kings Hwy,Alexandria,VA,22303,(703) 960-2200,126,4.0,1
+Peking Gourmet Inn,6029 Leesburg Pike,Falls Church,VA,22041,(703) 671-8088,1250,4.0,2
+China Dragon,1439 11th St NW,Washington,DC,20001,(202) 462-8282,15,2.5,1
+Golden China,7715 Georgia Ave NW,Washington,DC,20012,(202) 723-2970,15,3.0,1
+Kenny’s Carry Out,1239 Mt Olivet Rd NE,Washington,DC,20002,(202) 388-1951,5,4.0,1
+Hong Kong Delite,3123 Martin Luther King Jr Ave SE,Washington,DC,20032,(202) 562-7047,8,3.0,1
+Chinese Hunan American Carry-Out,3532 Georgia Ave NW,Washington,DC,20010,(202) 722-0448,5,3.0,1
+Luen Yung Carry Out,3906 14th Ave NW,Washington,DC,20011,(202) 829-7777,4,4.0,1
+Hong Kong Delite,3123 Martin Luther King Jr Ave SE,Washington,DC,20032,(202) 562-7047,8,3.0,1
+Luen Yung Carry Out,3906 14th Ave NW,Washington,DC,20011,(202) 829-7777,4,4.0,1
+Chinatown Garden,618 H St NW,Washington,DC,20001,(202) 737-8887,243,2.5,2
+O’Tasty,1764 Columbia Rd NW,Washington,DC,20009,(202) 234-0388,98,2.5,1
+Lucky Ginger Restaurant,7317 Georgia Ave NW,Washington,DC,20012,(202) 829-7300,15,3.0,1
+China Sea Carryout,6450 Georgia Ave NW,Washington,DC,20012,(202) 723-2356,5,3.5,1
+Hunan Delight,333 Hawaii Ave NE,Washington,DC,20011,(202) 529-8724,14,2.5,1
+South China,1302 Mt Vernon Ave,Alexandria,VA,22301,(703) 549-5099,199,3.5,1
+Sing Long,5211 Georgia Ave NW,Washington,DC,20011,(202) 291-5663,12,3.0,1
+New World Cafe,720 I St NW,Washington,DC,20001,(202) 842-0045,14,3.0,1
+New Century Carry Out & Resturant,5400 Queens Chapel Rd,Hyattsville,MD,20782,(301) 559-5301,27,4.5,1
+Beijing Hunan Restaurant,6049 Oxon Hill Rd,Oxon Hill,MD,20745,(301) 567-1900,42,4.0,2
+Fu Kang Carryout,2123 Rhode Island Ave NE,Washington,DC,20018,(202) 269-4547,5,3.5,1
+China Taste,6215 Georgia Ave NW,Washington,DC,20011,(202) 726-0891,4,4.0,0
+Good Luck,6 S Jordan St,Alexandria,VA,22304,(703) 823-1121,117,4.0,1
+Canal Express & China Cafe,4830 MacArthur Blvd NW,Washington,DC,20007,(202) 333-5678,21,3.0,1
+China Hut,7708 Georgia Ave NW,Washington,DC,20012,(202) 723-7300,6,3.5,0
+Szechuan Delight,6238 Little River Tpke,Alexandria,VA,22312,(703) 354-0005,75,4.0,1
+China Express,1602 7th St NW,Washington,DC,20004,(202) 554-8888,15,2.0,2
+Chinatown Market,521 H St NW,Washington,DC,20001,(202) 842-0130,17,3.0,1
+Peter Chang,2503 N Harrison St,Arlington,VA,22207,(703) 538-6688,246,3.5,2
+Peking Pavilion Chinese Restaurant,2912 N Sycamore St,Arlington,VA,22207,(703) 237-6868,58,3.5,2
+Northwest Chinese Food,7313 Baltimore Ave,College Park,MD,20740,(240) 714-4473,45,4.0,1
+Tasteful Delight Chinese Cafe,1301 S Joyce St,Arlington,VA,22202,(703) 418-9898,156,3.5,2
+House of Fortune,6715 Lowell Ave,Mclean,VA,22101,(703) 821-3779,176,3.5,2
+China Kitchen,50 Massachusetts Ave N E,Washington,DC,20002,,7,2.0,1
+North China Cafe,7810 A Lee Hwy,Falls Church,VA,22042,(703) 560-1486,61,4.0,2
+King City Restaurant,2403 Martin Luther King J,Washington,DC,20020,(202) 889-6337,4,3.0,1
+TNR Cafe,2049 Wilson Blvd,Arlington,VA,22201,(703) 875-0428,366,3.5,2
+Number 1 China,6376 Coventry Way,Clinton,MD,20735,(301) 877-2618,55,4.0,1
+Full Key Restaurant,2227 University Blvd W,Wheaton,MD,20902,(301) 933-8388,236,4.0,2
+Rice Pot Asian Cuisine,4709 Backlick Rd,Annandale,VA,22003,(703) 333-6168,207,4.5,2
+Gourmet Express,1300 Pennsylvania Ave SE,Washington,DC,20003,(202) 546-2828,6,2.5,1
+May Island,1669 N Quaker Ln,Alexandria,VA,22302,(703) 575-4455,122,4.0,2
+China Wok,1508 Benning Rd NE,Washington,DC,20002,(202) 388-0349,7,2.5,1
+Capital Szechuan,5305 E Capitol St SE,Washington,DC,20019,(202) 581-5432,2,4.0,1
+China Garden,1100 Wilson Blvd,Arlington,VA,22209,(703) 525-5317,417,3.0,2
+Shanghai Bao Kitchen,7101 Democracy Blvd,Bethesda,MD,20817,(301) 365-8866,66,4.5,1
+Mala Tang,3434 Washington Blvd,Arlington,VA,22201,(703) 243-2381,421,3.5,2
+Thai’s Corner Restaurant,8607 Westwood Center Dr,Vienna,VA,22182,(703) 996-4547,62,4.5,2
+Panda Express,429 L'enfant Plz SW,Washington,DC,20024,(202) 479-6831,3,3.5,2
+Oriental East Restaurant,1312 East-West Hwy,Silver Spring,MD,20910,(301) 608-0030,683,3.5,2
+Shanghai Village,4929 Bethesda Ave,Bethesda,MD,20814,(301) 654-7788,97,3.5,2
+Simon’s Wok Grill,5501 Georgia Ave NW,Washington,DC,20011,(202) 882-3663,15,3.0,1
+Yeung’s Lotus Express,50 Massachusetts Ave NE,Washington,DC,20002,(202) 289-1908,2,3.5,1
+Peter’s Sub Shop,7603 Maple Ave,Takoma Park,MD,20912,(301) 270-8777,14,4.5,1
+Shanghai Peking,506 N Henry St,Alexandria,VA,22314,(571) 512-5681,153,3.5,2
+Hong Kong Express,4545 Duke St,Alexandria,VA,22304,(703) 823-8808,70,3.5,1
+Hong Kong Bistro,3616 King St,Alexandria,VA,22302,(703) 820-8888,72,3.5,2
+Panda Cafe,5021 Wilson Blvd,Arlington,VA,22203,(703) 524-1988,82,3.5,1
+Panda Cafe,5021 Wilson Blvd,Arlington,VA,22203,(703) 524-1988,82,3.5,1
+Chen Sunny’s,3131 Rhode Island Ave NE,Washington,DC,20018,(202) 832-5675,4,3.0,1
+A&J,4316 Markham St,Annandale,VA,22003,(703) 813-8181,580,4.0,1
+Mandarin,129 15th St SE,Washington,DC,20003,(202) 547-3905,16,2.5,1
+Kennys Carryout,5427 5th Street NW,Washington,DC,20011,(202) 545-8890,3,3.5,1
+Hunan Kitchen,6550-D Little River Tpke,Alexandria,VA,22312,(703) 256-5399,54,3.5,1
+China Express,8455-M Tyco Rd,Vienna,VA,22182,(703) 918-9800,119,4.0,1
+King Kong Restaurant,2350 University Blvd E,Hyattsville,MD,20783,(301) 422-9200,11,4.0,2
+House Of Foong Lin,4613 Willow Ln,Bethesda,MD,20815,(301) 657-3740,58,3.5,2
+Peter’s Sub Shop,7603 Maple Ave,Takoma Park,MD,20912,(301) 270-8777,14,4.5,1
+Meiwah,4457 Willard Ave,Chevy Chase,MD,20815,(301) 652-9882,170,3.5,2
+Mandarin Restaurant,8411 Georgia Ave,Silver Spring,MD,20910,(301) 585-1282,31,3.5,1
+Goody’s Carry Out,1104 Queen St,Alexandria,VA,22314,(703) 535-3386,21,4.0,1
+Spring Garden Restaurant,8613 16th St,Silver Spring,MD,20910,(301) 588-9337,181,3.5,2
+Gourmet Inspirations,2646 University Blvd W,Wheaton,MD,20902,(301) 929-8818,113,4.0,2
+Andy’s Carry Out,5033 Columbia Pike,Arlington,VA,22204,(703) 671-1616,41,3.5,1
+Eastern Carryout and Cafe,2300 N Pershing Dr,Arlington,VA,22201,(703) 807-2121,93,3.0,1
+Mandarin Delight,10613 Montgomery Rd,Beltsville,MD,20705,(301) 937-8989,65,4.0,2
+China Cafe,1039 W Glebe Rd,Alexandria,VA,22305,(703) 836-3888,42,3.5,1
+Rhode Island Express,415 Rhode Island Ave NE,Washington,DC,20002,(202) 832-3116,3,1.5,1
+Duck Chang’s Restaurant,4427 John Marr Dr,Annandale,VA,22003,(703) 941-9400,118,4.0,2
+Hunan Gate,4233 Fairfax Dr,Arlington,VA,22203,(703) 243-5678,145,3.0,2
+Asian Chen’s,3208 O St NW,Washington,DC,20007,(202) 342-6333,1,4.0,0
+China Wok,8395 Leesburg Pike,Vienna,VA,22182,(703) 893-4488,227,3.5,2
+Full Yum’s Sub Shop,4940 S Dakota Ave NE,Washington,DC,20017,(202) 636-0011,5,2.5,0
+Full Kee Restaurant,5830 Columbia Pike,Falls Church,VA,22041,(703) 575-8232,209,3.5,2
+Hong Kong Pearl Seafood Restaurant,6286 Arlington Blvd,Falls Church,VA,22044,(703) 237-1388,405,3.5,2
+Danny’s Sub Shop & Chinese Food,3831 Pennsylvania Ave SE,Washington,DC,20020,(202) 583-3333,3,3.5,0
+X.O. Taste,6124 Arlington Blvd,Falls Church,VA,22044,(703) 536-1630,240,3.5,2
+Hunan Number One,3033 Wilson Blvd,Arlington,VA,22201,(703) 528-1177,255,3.0,1
+Golden House,8200 Georgia Ave,Silver Spring,MD,20910,(301) 495-8888,67,3.5,1
+Big Panda,7849 Richmond Hwy,Alexandria,VA,22306,(703) 780-2020,45,4.0,1
+Yeung’s Lotus Express,50 Massachusetts Ave NE,Washington,DC,20002,(202) 289-1908,2,3.5,1
+Grand China Carryout,1201 S Capitol St SW,Washington,DC,20003,(202) 554-8203,1,3.0,0
+Sichuan Wok,901 N Quincy St,Arlington,VA,22203,(703) 527-0660,143,3.0,2
+George Carry Out III,1001 U St NW,Washington,DC,20001,(202) 588-1443,2,3.0,2
+Miu Kee,6653 Arlington Blvd,Falls Church,VA,22042,(703) 237-8884,209,3.5,2
+Szechuan Star,6960-H Braddock Rd,Annandale,VA,22003,(703) 256-1111,48,4.0,2
+China Inn Deli,2918 Martin Luther King Dr SE,Washington,DC,20032,,1,3.0,0
+Hunan Express,3222 M St NW,Washington,DC,20007,(202) 342-8190,2,2.5,0
+North China Restaurant,7814 Old Georgetown Rd,Bethesda,MD,20814,(301) 656-7922,70,3.5,1
+China Delight,4686 King St,Alexandria,VA,22302,(703) 931-3331,59,3.0,2
+House of Dynasty,7550 Telegraph Rd,Alexandria,VA,22315,(703) 922-5210,301,4.0,2
+Panda Express,3100 14th St NW,Washington,DC,20010,(202) 986-0292,36,3.0,1
+Hunan Village,4775 Lee Hwy,Arlington,VA,22207,(703) 524-9874,35,3.0,1
+Chef Huang’s,8638 Richmond Hwy,Alexandria,VA,22309,(703) 360-0600,60,4.0,2
+Peking Express,514 S Van Dorn St,Alexandria,VA,22304,(703) 751-8888,37,3.5,2
+Mark’s Duck House,6184 Arlington Blvd,Falls Church,VA,22044,(703) 532-2125,533,3.5,2
+Top’s China,2520 Columbia Pike,Arlington,VA,22204,(703) 486-8277,69,2.5,1
+George Carry Out,2215 14th St NW,Washington,DC,20009,(202) 588-1443,6,2.0,0
+Peking Express,514 S Van Dorn St,Alexandria,VA,22304,(703) 751-8888,37,3.5,2
+Hunan Village,4775 Lee Hwy,Arlington,VA,22207,(703) 524-9874,35,3.0,1
+City Lights of China,4953 Bethesda Ave,Bethesda,MD,20814,(301) 913-9501,35,3.5,2
+China Southern Carry-Out,306 Southern Ave SE,Washington,DC,20032,(202) 561-6514,2,3.0,2
+Hunan Kitchen,5253 River Rd,Bethesda,MD,20816,(301) 986-8899,25,3.0,1
+Hunan Manor,1305 Shenandoah Rd,Alexandria,VA,22308,(703) 768-6888,50,4.0,2
+Top’s China,2520 Columbia Pike,Arlington,VA,22204,(703) 486-8277,69,2.5,1
+Asian Wok Cafe,828 N Washington St,Alexandria,VA,22314,(703) 837-8811,88,3.5,1
+Noodle King Restaurant,12705 New Hampshire Ave,Silver Spring,MD,20904,(301) 622-1882,97,4.0,2
+Jackey Cafe,611 H St NW,Washington,DC,20001,(202) 408-1288,156,2.5,2
+Shang Hai Cafe,7409 Baltimore Ave,College Park,MD,20740,(301) 985-6828,57,3.5,1
+Paul Kee Restaurant,11305 Georgia Ave,Wheaton,MD,20902,(301) 933-6886,151,3.5,2
+Asian Kitchen,5731 Lee Hwy,Arlington,VA,22207,(703) 538-4888,121,3.5,2
+Hunan Shrimp Boat,5585 S Dakota Ave NE,Washington,DC,20011,(202) 635-6666,5,1.0,1
+Choong Hwa Won,4409 John Marr Dr,Annandale,VA,22003,(703) 256-8006,220,4.0,2
+China Sky Carry Out,6266 Central Ave,Capitol Heights,MD,20743,(301) 336-4800,6,4.0,1
+China Express,3671 Bladensburg Rd,Brentwood,MD,20722,(301) 277-1447,5,4.5,1
+China House,2249B S Shirlington Rd,Arlington,VA,22206,(703) 486-8828,48,3.0,1
+Tsim Yung,2603 Mt Vernon Ave,Alexandria,VA,22301,(703) 518-8880,21,3.0,1
+PING by Charlie Chiang’s,4060 Campbell Ave,Arlington,VA,22206,(703) 671-4900,270,3.0,2
+China Sky Carry Out,6266 Central Ave,Capitol Heights,MD,20743,(301) 336-4800,6,4.0,1
+Taku Asian Bistro,5701 Columbia Pike,Falls Church,VA,22042,(703) 820-5252,50,3.0,2
+Panda Wok,2444 Ennalls Ave,Silver Spring,MD,20902,(301) 933-8599,43,3.5,1
+Nainai’s Noodle & Dumpling Bar,1200 EW Hwy,Silver Spring,MD,20910,(301) 585-6678,106,3.5,2
+China Express,3303 Lee Hwy,Arlington,VA,22207,(703) 522-0707,50,3.0,2
+Young Chow,420 S 23rd St,Arlington,VA,22202,(703) 892-2566,84,2.5,2
+Panda Express,2024 Concessions Pentagon,Washington,DC,20310,(703) 271-4628,4,3.0,0
+Szechwan Hunan,4115 Branch Ave,Temple Hills,MD,20748,(301) 423-8988,19,3.5,2
+Rolling Cooking,6351 Rolling Rd,Springfield,VA,22152,(703) 451-0553,84,4.0,2
+Fu Shing Cafe,10315 Westlake Dr,Bethesda,MD,20817,(301) 469-8878,144,3.5,2
+Hunan Cafe,126 W Broad St,Falls Church,VA,22046,(703) 533-8704,49,3.0,1
+New Century Carry-out,3176 Bladensburg Rd NE,Washington,DC,20018,(202) 529-2877,2,2.5,0
+Hot Spot,3232 Old Pickett Rd,Fairfax,VA,22031,(703) 537-0325,720,4.0,2
+Palais De Lune Chinese Restaurant,8315 Grubb Rd,Silver Spring,MD,20910,(301) 608-2655,65,3.0,1
+Lotus Garden,224 Maple Ave W,Vienna,VA,22180,(703) 255-9888,245,3.5,2
+Jackey Cafe,611 H St NW,Washington,DC,20001,(202) 408-1288,156,2.5,2
+Golden House,8100 Wisconsin Ave,Bethesda,MD,20814,(301) 951-8999,77,3.0,1
+Grand Hunan,5845 Washington Blvd,Arlington,VA,22205,(703) 536-6266,44,3.0,2
+Vinh Kee Restaurant,3103 Graham Rd,Falls Church,VA,22042,(703) 645-0118,106,3.5,2
+Asian Grill,6228 Rolling Rd,Springfield,VA,22152,(703) 569-4800,133,4.0,2
+Tempt Asian Cafe,6259 Little River Tpke,Alexandria,VA,22312,(703) 750-6801,105,3.5,2
+Chin’s Kitchen,6136 N Kings Hwy,Alexandria,VA,22303,(703) 765-4600,56,3.5,1
+Forbidden City Express,6732 Curran St,McLean,VA,22101,(703) 821-9000,48,3.5,2
+Four Seasons Cafe,5960 Kingstowne Towne Ctr,Alexandria,VA,22315,(703) 922-8888,64,3.5,2
+China Bistro,755 Hungerford Dr,Rockville,MD,20850,(301) 294-0808,532,4.0,2
+Ho’s Chinese Carryout,1707 Centre Plz,Alexandria,VA,22302,(703) 931-9779,53,3.0,2
+En Bistro & Sushi,9945 Falls Rd,Potomac,MD,20854,(301) 983-8600,35,4.0,2
+Flaming Grill Buffet,6051 Oxon Hill Rd,Oxon Hill,MD,20745,(301) 567-9555,65,3.5,2
+Fortune Chinese Seafood Restaurant,6249 Sevens Corners Ctr,Falls Church,VA,22044,(571) 236-8138,220,3.0,2
+Ding How Carry Out,6808 Bland St,Springfield,VA,22150,(703) 451-4325,32,4.0,1
+Hunan Cafe,2010 Eisenhower Ave,Alexandria,VA,22314,(703) 535-3155,67,3.0,2
+China Gourmet,3739 University Blvd W,Kensington,MD,20895,(301) 946-9400,44,3.5,2
+Ginger Beef Foody-Goody,430 N Pitt St,Alexandria,VA,22314,(703) 683-4888,92,3.0,1
+China Pavilion,4611 Sangamore Rd,Bethesda,MD,20816,(301) 263-1088,25,3.0,2
+New Kam Fong,2400 University Blvd W,Wheaton,MD,20902,(301) 933-6388,98,3.5,2
+Magic Wok Cafe,1508A Belle View Blvd,Alexandria,VA,22307,(703) 768-7587,46,3.5,1
+Old Peking Restaurant,2952 Chain Bridge Rd,Oakton,VA,22124,(703) 255-9444,110,4.0,2
+Chinese Express,7613 Wisconsin Ave,Bethesda,MD,20814,(301) 656-6111,34,3.0,1
+XO Taste Express,6901 Hechinger Dr,Springfield,VA,22151,(703) 639-0283,8,5.0,2
+Wok ‘N Roll Chinese Cafe,1371 Beverly Rd,McLean,VA,22101,(703) 556-8811,56,3.0,2
+Good Taste Carryout,277 S Van Dorn St,Alexandria,VA,22304,(703) 751-9300,37,3.5,2
+Hollywood East Cafe,11160 Veirs Mill Rd,Wheaton,MD,20902,(240) 290-9988,154,3.5,2
+Ginger Beef,4815 Columbia Pike,Arlington,VA,22204,(703) 553-0077,37,2.5,1
+Danny’s Sub Shop & Chinese Food,3710 Minnesota Ave NE,Washington,DC,20019,(202) 388-8666,3,1.0,0
+East Pearl Asian Bistro,7701 Greenbelt Rd,Greenbelt,MD,20770,(301) 982-4888,44,3.5,2
+China Gourmet Bistro,7945 Tuckerman Ln,Potomac,MD,20854,(301) 299-1699,62,3.0,2
+Golden Hong Kong,6396 Springfield Plz,Springfield,VA,22150,(703) 866-0107,93,3.0,2
+Kiyoko Express,7313 Baltimore Ave,College Park,MD,20740,(240) 764-8312,61,3.0,2
+Mayflower,7925 Norfolk Ave,Bethesda,MD,20814,(301) 652-8918,29,3.0,1
+Red Mei,602 King St,Alexandria,VA,22314,(703) 837-0094,191,3.0,1
+Shanghai Tokyo Cafe,8300 Baltimore Ave,College Park,MD,20740,(301) 220-1998,92,3.0,2
+P.F. Chang’s,901 N Glebe Rd,Arlington,VA,22203,(703) 527-0955,246,3.0,2
+Shin Shin Carry Out,6120 Marlboro Pike,District Heights,MD,20747,(301) 568-3890,17,2.5,1
+Hunan Deli,7200 Telegraph Sq Dr,Lorton,VA,22079,(703) 337-4242,48,4.5,2
+Mainland Restaurant,6713 Marlboro Pike,District Heights,MD,20747,(301) 735-2250,21,3.5,1
+Ken’s Asian Bistro,2256 Huntington Ave,Alexandria,VA,22303,(703) 888-3655,41,3.5,2
+Joe’s Noodle House,1488  Rockville Pike,Rockville,MD,20852,(301) 881-5518,380,3.5,2
+Wong Gee Asian Restaurant,2417 University Blvd,Wheaton,MD,20902,(301) 933-3277,108,3.0,2
+Fu Lin Restaurant,2235 Bel Pre Rd,Silver Spring,MD,20906,(301) 460-2888,32,4.0,2
+Independent Federation of Chinese Studnts & Schlrs,733 15th St NW Ste 511,Washington,DC,20005,(202) 347-0017,0,0,0
+China Star,9600 Main St,Fairfax,VA,22031,(703) 323-8822,197,3.5,2
+Wow Bao,Washington Reagan National Airport,Arlington,VA,22202,(703) 417-1086,55,3.5,1
+Triple A Chinese Restaurant,9002 Old Branch Ave,Clinton,MD,20735,(301) 877-1688,7,4.5,2
+China Taste,155 Rollins Ave,Rockville,MD,20852,(301) 984-6888,84,3.5,1
+Golden China Restaurant,5908 40th Ave,Hyattsville,MD,20782,(301) 985-2098,25,3.0,1
+Asian Rice,6511 Backlick Rd,Springfield,VA,22150,(703) 866-7860,54,3.5,2
+Szechuan Palace,12349 Georgia Ave,Silver Spring,MD,20906,(301) 946-3700,41,3.5,2
+New Moon Restaurant,6619 Wilson Blvd,Falls Church,VA,22044,(703) 533-1597,9,3.5,1
+Peking Duck Restaurant,7531 Richmond Hwy,Alexandria,VA,22306,(703) 768-2774,65,3.5,2
+Panda Cafe,11725 Lee Hwy,Fairfax,VA,22030,(703) 277-2895,171,4.0,1
+P.F. Chang’s,5406 Wisconsin Ave,Chevy Chase,MD,20815,(301) 654-4350,111,2.5,2
+Taipei Cafe,802 Hungerford Dr,Rockville,MD,20850,(301) 838-5998,196,4.0,2
+Mrs Chen’s Kitchen,3101 Columbia Pike,Arlington,VA,22204,(703) 920-3199,44,3.0,1
+Kwan Fo Cheung Lin Fo,129 15th St SE,Washington,DC,20003,(202) 547-3905,2,3.0,2
+Dragon City,918 Sligo Ave,Silver Spring,MD,20910,(301) 565-8850,22,2.5,1
+Good Jerry,8845 Greenbelt Rd,Greenbelt,MD,20706,(301) 552-0107,21,3.5,1
+QQ China,13623 Georgia Avenue,Aspen Hill,MD,20906,(301) 962-6888,19,3.5,1
+New Szechuan Express,5715 A Edsall Rd,Alexandria,VA,22304,(703) 370-1852,17,4.0,2
+Hunan West,8938 Burke Lake Rd,Springfield,VA,22151,(703) 425-1703,117,3.5,2
+East Pearl Restaurant,838 B Rockville Pike,Rockville,MD,20852,(301) 838-8663,197,3.5,2
+Dragon City,918 Sligo Ave,Silver Spring,MD,20910,(301) 565-8850,22,2.5,1
+Good Jerry,8845 Greenbelt Rd,Greenbelt,MD,20706,(301) 552-0107,21,3.5,1
+QQ China,13623 Georgia Avenue,Aspen Hill,MD,20906,(301) 962-6888,19,3.5,1
+East Pearl Restaurant,838 B Rockville Pike,Rockville,MD,20852,(301) 838-8663,197,3.5,2
+No.1 China,7643 New Hampshire Ave,Takoma Park,MD,20912,(301) 431-5757,8,3.0,2
+Yum’s Carryout,3917 S Capitol St SW,Washington,DC,20032,(202) 562-6300,1,2.0,0
+Sampan Cafe,6116 Franconia Rd,Alexandria,VA,22310,(703) 971-5404,110,3.0,2
+Jasmine Garden,8106 Arlington Blvd,Falls Church,VA,22042,(703) 208-9989,143,3.0,2
+Golden Bowl,832 Largo Center Dr,Upper Marlboro,MD,20774,(301) 499-2888,12,3.5,1
+Magic Wok Restaurant,6194 Franconia Rd,Alexandria,VA,22310,(703) 971-9308,30,3.5,1
+Rien Tong,3131 Wilson Blvd,Arlington,VA,22201,(703) 243-8388,141,3.0,2
+Golden Bowl,832 Largo Center Dr,Upper Marlboro,MD,20774,(301) 499-2888,12,3.5,1
+Uncle Liu’s Hot Pot,2972 Gallows Rd,Falls Church,VA,22042,(703) 560-6868,175,3.5,2
+Kenny’s Sub Shop,8823 Greenbelt Rd,Greenbelt,MD,20770,(301) 552-8800,37,3.5,1
+Hunan Manor,11237 New Hampshire Ave,Silver Spring,MD,20904,(301) 681-5360,55,3.0,2
+Yuan Fu Vegetarian,798 Rockville Pike,Rockville,MD,20852,(301) 762-5938,337,4.0,2
+Oriental Bistro,3221 Duke St,Alexandria,VA,22314,(703) 370-4100,89,2.5,2
+Chef Express Chinese Carry Out,1108 W Broad St,Falls Church,VA,22046,(703) 538-5688,23,3.0,1
+Joe’s Restaurant,3185 Queens Chapel Rd,Mount Rainier,MD,20712,(301) 699-6270,7,3.5,1
+Pagoda Chinese Restaurant,1734 Wisconsin Ave NW,Washington,DC,20007,(202) 333-7959,0,0,0
+Koi Asian Cuisine,12046 Cherry Hill Rd,Silver Spring,MD,20904,(301) 586-1555,79,3.5,2
+Yuan Fu Vegetarian,798 Rockville Pike,Rockville,MD,20852,(301) 762-5938,337,4.0,2
+Pagoda Chinese Restaurant,1734 Wisconsin Ave NW,Washington,DC,20007,(202) 333-7959,0,0,0
+Hunan Chef,7175 Lee Hwy,Falls Church,VA,22046,(703) 241-8184,14,3.5,2
+Joe’s Restaurant,3185 Queens Chapel Rd,Mount Rainier,MD,20712,(301) 699-6270,7,3.5,1
+Kang Chon Korean & Chinese Restaurant,7048 Spring Garden Dr,Springfield,VA,22150,(703) 451-3277,72,4.0,2
+Good Fortune Chinese Restaurant,3209 Columbia Pike,Arlington,VA,22204,(703) 920-8228,48,2.5,2
+Nanjing Bistro,11213 Lee Hwy,Fairfax,VA,22030,(703) 385-8686,93,4.0,2
+Beijing Tokyo,9544 Old Keene Mill Rd,Burke,VA,22015,(703) 455-8899,88,4.0,2
+Beijing Delight,8646 Flower Ave,Takoma Park,MD,20912,(301) 608-3844,11,3.5,1
+Hong Kong Express,5250-F Port Royal Rd,Springfield,VA,22161,(703) 321-8889,32,3.0,2
+Jerry Yum’s,10696 Campus Way S,Upper Marlboro,MD,20774,(301) 350-8602,22,3.5,1
+Asian Carry Out,2506 University Blvd E,Hyattsville,MD,20783,(301) 422-4248,15,3.0,1
+China King V,7500 Leesburg Pike,Falls Church,VA,22043,(703) 288-6588,50,3.0,1
+Golden House 5,6211 Belcrest Rd,Hyattsville,MD,20782,(301) 699-7988,16,2.5,2
+Peter Chang,20 A Maryland Ave,Rockville,MD,20850,(301) 838-9188,175,3.5,2
+Hunan Treasure Restaurant,7537 Greenbelt Rd,Greenbelt,MD,20770,(301) 982-2012,43,3.0,2
+Beijing Delight,8646 Flower Ave,Takoma Park,MD,20912,(301) 608-3844,11,3.5,1
+Vegetable Garden,3830 International Dr,Silver Spring,MD,20906,(301) 598-6868,101,4.0,2
+Cafe China,6271 Old Dominion Dr,McLean,VA,22101,(703) 821-8666,17,3.0,1
+Yum’s Express,4746 Cherry Hill Rd,College Park,MD,20740,(301) 313-0828,42,2.5,1
+Jumbo Jumbo Cafe Bubble Express,765 Rockville Pike,Rockville,MD,20852,(301) 545-1708,432,3.5,1
+New China Restaurant,4205 Annandale Ctr Dr,Annandale,VA,22003,(703) 941-2663,19,3.0,1
+Golden China,6981 A Hechinger Dr,Springfield,VA,22151,(703) 256-6668,7,3.5,1
+Yum’s Carryout,3917 S Capitol St SW,Washington,DC,20032,(202) 562-6300,1,2.0,0
+Bob’s Shanghai 66,305 N Washington St,Rockville,MD,20850,(301) 251-6652,462,3.5,2
+China House Dgn Carry Out,3906 14th Street NW,Washington,DC,20011,(202) 829-7777,1,2.0,1
+Szechuan 1,13832 Old Columbia Pike,Silver Spring,MD,20904,(301) 989-9302,25,3.5,2
+Goodies Carryout,15420 Old Columbia Pike,Burtonsville,MD,20866,(301) 476-8083,34,4.0,1
+China Garden,6426 Landsdown Center Dr,Alexandria,VA,22315,(571) 424-1162,40,3.5,1
+Silver Fountain,13533 Connecticut Ave,Silver Spring,MD,20906,(301) 460-1200,229,3.0,2
+Top China,10733 Indian Head Hwy,Fort Washington,MD,20744,(301) 203-0858,11,3.5,1
+Hunan Tasty,2912 Chain Bridge Rd,Oakton,VA,22124,(703) 281-1668,35,3.5,1
+Szechuan Delight,6204 Coventry Way,Clinton,MD,20735,(301) 868-8383,9,3.5,2
+Seven Seas Chinese Restaurant,1776 E Jefferson St,Rockville,MD,20852,(301) 770-5020,125,3.0,2
+Eddie’s Cafe,9823 Rhode Island Ave,College Park,MD,20740,(301) 345-1791,26,3.5,1
+Hunan City Restaurant,9429 Georgia Ave,Silver Spring,MD,20910,(301) 587-3888,25,3.0,2
+Eastern,6331-B S Kings Hwy,Alexandria,VA,22306,(703) 660-8490,18,3.5,1
+Asian Star,12758 Old Fort Rd,Fort Washington,MD,20744,(301) 203-1888,11,4.0,1
+Hunan Taste Restaurant,8088 Rolling Rd,Springfield,VA,22153,(703) 455-1818,46,3.5,2
+Goody’s Carryout,3925 14th St NW,Washington,DC,20050,(202) 829-5188,2,1.5,0
+Beijing of Greenbelt,131 Centerway,Greenbelt,MD,20770,(301) 345-3996,55,3.0,2
+Mayflower,1905 Seminary Rd,Silver Spring,MD,20910,(301) 585-8989,29,3.0,1
+China Sub Shop,905 Chillum Rd,Hyattsville,MD,20782,(301) 559-7706,7,2.5,1
+Hong Kong Express,6343 Columbia Pk,Falls Church,VA,22041,(703) 354-7885,31,2.5,2
+Golden City,7026 Wisconsin Ave,Chevy Chase,MD,20815,(301) 986-5140,30,2.5,1
+Taipei Tokyo,11510 Rockville Pike,Rockville,MD,20852,(301) 881-8388,101,3.5,2
+Tiyaki Grill,8434 Old Keene Mill Rd,Springfield,VA,22152,(703) 913-6300,51,3.5,2
+New China Inc,1805 Montana Ave NE,Washington,DC,20018,(202) 635-3442,5,3.0,2
+China Town,9530 Burke Rd,Burke,VA,22015,(703) 978-2303,11,3.5,1
+House of Peking Choice,13524 Baltimore Ave,Laurel,MD,20707,(301) 419-0088,69,3.5,2
+Oriental Cafe,8558 Lee Hwy,Fairfax,VA,22031,(703) 573-5888,25,3.5,1
+East Dumpling House,12 N Washington Ave,Rockville,MD,20850,(301) 762-6200,220,3.5,2
+Tiyaki Grill,8434 Old Keene Mill Rd,Springfield,VA,22152,(703) 913-6300,51,3.5,2
+China Sub Shop,6561 Ager Rd,Hyattsville,MD,20782,(301) 422-7402,1,4.0,1
+China Town,9530 Burke Rd,Burke,VA,22015,(703) 978-2303,11,3.5,1
+Wah Lock,6505 New Hampshire Ave,Takoma Park,MD,20912,(301) 270-0043,20,2.5,1
+China DC Oriental Food,1276 5th St NE,Washington,DC,20002,(202) 544-6868,0,0,0
+Eddie’s Cafe,9823 Rhode Island Ave,College Park,MD,20740,(301) 345-1791,26,3.5,1
+Oriental Express,5254 Marlboro Pike,Capitol Heights,MD,20743,(301) 516-9088,3,3.5,1
+Peking Village II,10782 Lee Hwy,Fairfax,VA,22030,(703) 691-9888,83,3.5,1
+Sakura Seafood and Supreme Buffet,9031 Baltimore Ave,College Park,MD,20740,(301) 982-3331,130,3.0,2
+Lo’s Hunan Szechuan Restaurant,3075 Nutley St,Fairfax,VA,22031,(703) 207-9466,51,3.0,2
+Panda Express,6307 Richmond Hwy,Alexandria,VA,22306,(703) 721-2071,19,3.0,1
+China Sub Shop,6561 Ager Rd,Hyattsville,MD,20782,(301) 422-7402,1,4.0,1
+Heartys 2,3114 Queens Chapel Rd,Hyattsville,MD,20782,(301) 779-0598,11,2.5,0
+China Express Carryout,3422 Powder Mill Rd,Beltsville,MD,20705,(301) 595-3882,5,3.5,1
+Mama Wok,595 Hungerford Dr,Rockville,MD,20850,(301) 309-6642,99,3.5,2
+Hunan Delight,276 Cedar Ln SE,Vienna,VA,22180,(703) 698-8155,42,3.0,2
+Kenny’s Sub Shop,11210 Georgia Ave,Wheaton,MD,20902,(301) 933-8888,61,2.5,1
+Brother Chinese Food,11401 Amherst Ave,Wheaton,MD,20902,(301) 962-1267,28,3.0,1
+Panda Bowl,3207 Columbia Pike,Arlington,VA,22204,(703) 271-9881,44,2.0,1
+Jerry Chan’s,1200-1298 O Street NW,Washington,DC,20005,,0,0,0
+Hong Kong Express,988 Swan Creek Rd E,Fort Washington,MD,20744,(301) 203-8888,28,3.0,1
+Shanghai Taste,1121 Nelson St,Rockville,MD,20850,(301) 279-0806,172,3.5,2
+China Canteen,808 Hungerford Dr,Rockville,MD,20850,(301) 424-1606,63,3.5,2
+Hunan Delight,18220 Village Center Dr,Olney,MD,20832,(301) 774-7944,103,3.5,2
+Lenny’s Yum,Lanham Severn Rd,Lanham-Seabrook,MD,20706,(301) 577-3788,6,3.5,1
+Eddies Carryout,4850 Marlboro Pike,Capitol Heights,MD,20743,(301) 735-4455,7,2.5,2
+Jenny’s Express,2571 Ennalls Ave,Silver Spring,MD,20902,(301) 933-8111,10,3.0,1
+Shanghai Taste,1121 Nelson St,Rockville,MD,20850,(301) 279-0806,172,3.5,2
+China Cafe,5436 Westbard Ave,Bethesda,MD,20816,(301) 654-3077,17,3.5,2
+Sammy’s Carry-Out,3809 Hamilton St,Hyattsville,MD,20781,(301) 699-8892,5,3.0,1
+Danny’s Calverton,11623 Beltsville Dr,Calverton,MD,20705,(301) 586-9477,17,3.0,1
+Eddies Carryout,4850 Marlboro Pike,Capitol Heights,MD,20743,(301) 735-4455,7,2.5,2
+Hunan East Restaurant,2533 John Milton Dr,Herndon,VA,20171,(703) 476-1666,72,4.0,2
+Harvest Moon Restaurant & Lounge,7260 Arlington Blvd,Falls Church,VA,22042,(703) 573-6000,69,2.5,1
+Hunan China Carry Out,9234 Springhill Ln,Greenbelt,MD,20770,(301) 474-9190,3,3.5,0
+Jenny’s Express,2571 Ennalls Ave,Silver Spring,MD,20902,(301) 933-8111,10,3.0,1
+New Beijing,8444 Lee Hwy,Fairfax,VA,22031,(703) 206-9197,35,3.0,1
+Hunan China Carry Out,9234 Springhill Ln,Greenbelt,MD,20770,(301) 474-9190,3,3.5,0
+Great Wall Supermarket’s Restaurant,2982 Gallows Rd,Falls Church,VA,22042,(703) 208-3320,17,3.5,1
+China DC Oriental Food,1276 5th St NE,Washington,DC,20002,(202) 544-6868,0,0,0
+China Doll Gourmet Restaurant & Bakery,627 H St NW,Washington,DC,20001,(202) 289-4756,0,0,0
+Golden China,5461 Annapolis Rd,Bladensburg,MD,20710,(301) 779-0911,2,3.0,0
+Indochine Express Chinese Halal,15416 New Hampshire Ave,Silver Spring,MD,20905,(301) 384-1679,30,3.5,2
+China Sea Restaurant,4616 Suitland Rd,Suitland,MD,20746,(301) 735-1500,14,3.0,1
+Zen Asian Grill & Sushi,15602 Old Columbia Pike,Burtonsville,MD,20866,(301) 421-1898,189,3.5,2
+Hunan Heritage,7869 Heritage Dr,Annandale,VA,22003,(703) 941-5808,27,2.5,2
+Shen Yang Chinese Restaurant,9905 Rhode Island Ave,College Park,MD,20740,(301) 441-2250,26,2.5,1
+Chin & Lee Chinese Carry Out,1331 Lamberton Dr,Silver Spring,MD,20902,(301) 649-5466,21,3.0,1
+Cuisine of China,8480 Annapolis Rd,New Carrollton,MD,20784,(301) 459-3900,3,3.0,1
+Michael’s Noodles Restaurant,10038 Darnestown Rd,Rockville,MD,20850,(301) 738-0370,174,4.0,2
+Lin’s Chinese Restaurant,734 Cloverly St,Silver Spring,MD,20905,(301) 384-8870,20,3.5,1
+Panda Cafe,11454 Cherry Hill Rd,Beltsville,MD,20705,(301) 595-9666,18,3.0,1
+Panda Express,1100 S Hayes St,Arlington,VA,22202,(703) 415-5220,24,3.0,1
+China Cafe,1018 Vermont Ave NW,Washington,DC,20005,(202) 628-1350,0,0,0
+China Cafe,8746 Richmond Hwy,Alexandria,VA,22309,(703) 780-8667,14,3.5,1
+East Chateau,146 Maple Ave W,Vienna,VA,22180,(703) 255-2588,48,3.0,2
+Happy Family,301 S Washington St,Falls Church,VA,22046,(703) 534-3838,32,2.5,2
+Peking Cafe,7438 Little River Tpke,Annandale,VA,22003,(703) 750-3498,27,2.5,1
+Lakeside Asia Cafe,11130-J S Lakes Dr,Reston,VA,20191,(703) 391-9070,120,3.5,2
+Kenny’s Subs Shop,9301 Woodmore Centre Dr,Glenarden,MD,20706,(301) 322-5588,24,3.0,1
+Peking Express,103 Center St N,Vienna,VA,22180,(703) 281-2445,23,3.0,1
+Mandarin Express Chinese Restaurant,15209 Frederick Rd,Rockville,MD,20850,(301) 251-0615,83,3.5,1
+China Shanghai,9573 Braddock Rd,Fairfax,VA,22032,(703) 323-8800,17,3.0,2
+Duk Wo,9570 J Burke Rd,Burke,VA,22015,(703) 323-1800,90,3.5,2
+Eastern Carry Out,6900 New Hampshire Ave,Takoma Park,MD,20912,(301) 270-1405,9,3.0,1
+Chen’s Kitchen,301 Spring St,Herndon,VA,20170,(703) 478-2838,81,3.5,1
+Eastern Carryout,10205 New Hampshire Ave,Silver Spring,MD,20903,(301) 431-0990,12,2.5,1
+Yummy Yummy,8503 Oxon Hill Rd Ste 1,Fort Washington,MD,20744,(301) 839-7411,10,2.0,2
+Tau Tau Restaurant,6413 Shiplett Blvd,Burke,VA,22015,(703) 866-7900,75,3.5,2
+Mee Shane Restaurant,11 Olney Sandy Spring Rd,Ashton,MD,20861,(301) 774-1898,15,4.0,1
+Foolee’s Carryout Restaurant,9524 Crain Hwy,Upper Marlboro,MD,20772,(301) 599-0412,20,3.0,1
+United States China Assoc of Industry and Commerce,2700 New York Avenue NE,Washington,DC,20002,(202) 635-6325,0,0,0
+Top China 88,12500 Fairwood Pkwy,Bowie,MD,20720,(301) 805-0898,18,3.5,1
+Jerry Chen,3830 Mt Vernon Ave,Alexandria,VA,22305,(703) 535-8080,7,2.5,1
+Teppanyaki Grill & Buffet,9345 Annapolis Rd,Lanham,MD,20706,(301) 459-5555,101,3.0,1
+Danny’s Carryout,6258  Oxon Hill Rd,Oxon Hill,MD,20745,(301) 839-3388,10,3.0,1
+Hong Kong Express,6030-I Burke Commons Rd,Burke,VA,22015,(703) 239-8080,37,3.5,2
+Good East Carry Out,4915 Suitland Rd,Suitland-Silver Hill,MD,20746,(301) 735-3383,8,2.5,2
+Hunan Express,5039 Garrett Ave,Beltsville,MD,20705,(301) 937-0297,16,3.0,1
+Red Ginger,9039 Lanham Severn Rd,Lanham,MD,20706,(301) 731-8828,15,2.5,1
+China One,7700 F Richmond Hwy,Alexandria,VA,22306,(703) 360-2763,21,2.5,1
+Great Wall,6575-L Frontier Dr,Springfield,VA,22150,(703) 971-1008,33,2.5,1
+Hunan Cafe,18749 N Frederick Ave,Gaithersburg,MD,20879,(301) 519-8688,105,4.0,1
+Asia Garden,6935 Telegraph Rd,Alexandria,VA,22310,(703) 922-6666,14,2.5,2
+China #1 Diner,9836 Mallard Dr,Laurel,MD,20708,(301) 490-8886,18,3.5,1
+China Buffet,9098 Baltimore Ave,College Park,MD,20740,(301) 982-6600,28,3.0,1
+Asian Palace,11180 Fairfax Blvd,Fairfax,VA,22030,(703) 273-3998,19,3.0,2
+Top’s China,8727-B Cooper Rd,Alexandria,VA,22309,(703) 799-0705,23,3.0,1
+The Yo Yo Cafe,13843 Outlet Dr,Silver Spring,MD,20904,(301) 890-0888,52,3.0,2
+Hunan Panda,10919 Main St,Fairfax,VA,22030,(703) 273-6310,24,3.5,2
+China Golden,9127 Riggs Rd,Hyattsville,MD,20783,(301) 434-5928,6,3.0,1
+Golden China Restaurant,12719 Old Columbia Pike,Silver Spring,MD,20904,(301) 625-5000,16,2.5,1
+China Cafe Carryout,612 Division Ave NE,Washington,DC,20019,(202) 397-5426,0,0,0
+China American Inn,845 Upshur St NW,Washington,DC,20011,(202) 726-4885,3,2.5,0
+China Taste Carryout,5577 Central Ave SE # B,Washington,DC,20019,(202) 583-0231,0,0,0
+Peking Chef Restaurant,5622 Ox Rd,Fairfax Station,VA,22039,(703) 426-9670,20,3.5,2
+Big Wang Cuisine,16051 Frederick Rd,Derwood,MD,20855,(301) 977-7676,95,3.5,2
+New Mandarin,5574 Norbeck Rd,Rockville,MD,20853,(301) 871-0826,19,3.0,1
+Chopstix,1025 Seneca Rd,Great Falls,VA,22066,(703) 592-9596,12,4.0,2
+Goodie’s Sub Shop,5920 Princess Garden Pkwy,Lanham,MD,20706,(301) 429-2850,13,3.0,1
+Mandarin House Restaurant,9105 All Saints Rd,Laurel,MD,20723,(301) 604-7234,84,3.5,2
+P.F. Chang’s,1716M International Dr,McLean,VA,22102,(703) 734-8996,179,3.0,2
+Johnny’s Carryout,501 Kennedy St NW,Washington,DC,20011,(202) 291-8323,0,0,0
+Rio Buffet & Bar,3745 Branch Ave,Temple Hills,MD,20748,(301) 899-8868,15,2.5,2
+88 China Restaurant,13635 Lee Jackson Memorial Hwy,Chantilly,VA,20151,(703) 378-0869,104,4.0,2
+Panda Express,University Of Maryland,College Park,MD,20742,(301) 314-6111,14,3.0,1
+China Best,5490 Saint Barnabas Rd,Oxon Hill,MD,20745,(301) 423-1118,4,2.5,1
+Yum’s Carryout,3300 Georgia Ave NW,Washington,DC,20010,(202) 387-6601,1,1.0,2
+New China Restaurant,4205 Tom Davis Dr,Annandale,VA,22003,(703) 941-2663,5,2.5,0
+Johnny’s Carryout Chinese Restaurant,501 Kennedy St NW,Washington,DC,20011,(202) 291-8323,2,2.5,0
+Taste of Beijing,7734 Gunston Plz,Lorton,VA,22079,(703) 339-5045,14,3.5,2
+China Express,81 N Glebe Rd,Arlington,VA,22203,(703) 522-4413,32,2.5,1
+China Dynasty,13318 New Hampshire Ave,Silver Spring,MD,20904,(301) 384-7685,19,2.5,2
+China Best,12245 Veirs Mill Rd,Silver Spring,MD,20906,(301) 933-7780,4,3.0,1
+Hunan Taste,2405 Wootton Pkwy,Rockville,MD,20850,(301) 294-0005,15,3.5,1
+100 Degree Chinese Cuisine,3903 Fair Ridge Dr,Fairfax,VA,22033,(703) 537-0788,224,3.5,2
+Hunan Cafe,4096 Majestic Ln,Fairfax,VA,22033,(703) 968-6820,26,4.0,2
+China Best,12245 Veirs Mill Rd,Silver Spring,MD,20906,(301) 933-7780,4,3.0,1
+Panda Express,7316 Baltimore Ave,College Park,MD,20740,(301) 209-7501,6,2.5,1
+Win Buffet,6244 Little River Tpke,Alexandria,VA,22312,(703) 813-6388,70,2.0,2
+Toms Chinese Restaurant,6853 New Hampshire Ave,Takoma Park,MD,20912,(301) 270-3636,4,3.0,2
+China Express,81 N Glebe Rd,Arlington,VA,22203,(703) 522-4413,32,2.5,1
+Hunan Taste,2405 Wootton Pkwy,Rockville,MD,20850,(301) 294-0005,15,3.5,1
+New China Garden,10374 Willard Way,Fairfax,VA,22030,(703) 273-8837,24,3.0,2
+Panda Express,6600 Annapolis Rd,Hyattsville,MD,20784,(301) 322-8080,9,3.0,1
+China Times,1040 National Press Bldg,Washington,DC,20045,(202) 662-7570,0,0,0
+Hunan China,792 Harry S Truman Dr,Upper Marlboro,MD,20774,(301) 336-8883,10,2.5,1
+Golden King,21800 Town Center Plz Ste 269,Sterling,VA,20164,(703) 433-5888,144,3.5,2
+Chopsticks Express,7553 Huntsman Blvd,Springfield,VA,22153,(703) 644-6688,23,3.5,1
+Yum’s Restaurant,12635 Laurel Bowie Rd,Laurel,MD,20708,(301) 776-5002,24,3.0,1
+Eddie Leonard’s Carry Out,4306 St Barnabas Rd,Temple Hills,MD,20748,(301) 899-0500,2,3.5,0
+Wing Wah,41 Randolph Rd,Silver Spring,MD,20901,(301) 989-0100,32,2.5,1
+China Jade,16805 Crabbs Branch Way,Rockville,MD,20855,(301) 963-1570,69,3.5,2
+New Village,11540-11542 Middlebrook Rd,Germantown,MD,20876,(301) 540-8838,88,4.5,2
+Hunan Chinese Gourmet,11725L Fair Oaks Mall,Fairfax,VA,22033,(703) 359-5898,101,3.5,1
+Golden Pavilion,6938 Laurel Bowie Rd,Bowie,MD,20715,(301) 262-7777,46,3.0,2
+Asian Garden,3065K Centreville Rd,Herndon,VA,20171,(703) 435-9485,37,4.0,1
+Grace Garden,1690 Annapolis Rd,Odenton,MD,21113,(410) 672-3581,232,4.0,2
+Kim’s Hunan Gourmet,15739 Columbia Pike,Burtonsville,MD,20866,(301) 384-0808,21,3.5,2
+Panda Express,3071 Gatehouse Plz,Falls Church,VA,22042,(703) 207-3980,46,2.5,1
+Eastern Cafe,800 Pleasant Dr,Rockville,MD,20850,(301) 963-9288,29,3.0,1
+Oriental House,3415 Branch Ave,Temple Hills,MD,20748,(301) 423-8777,2,2.0,1
+Hunan China,8305 Ice Crystal Dr,Laurel,MD,20723,(301) 483-8885,38,3.0,1
+Eddie Leonard’s Carry Out,4306 St Barnabas Rd,Temple Hills,MD,20748,(301) 899-0500,2,3.5,0
+Masala Wok,10940 Fairfax Blvd,Fairfax,VA,22030,(571) 432-1814,201,3.0,2
+Panda China,7432 Riggs Rd,Hyattsville,MD,20783,(301) 431-0890,5,2.0,1
+Yu Zhou Cafe,576 N Frederick Ave,Gaithersburg,MD,20877,(301) 330-9808,84,3.5,2
+Masala Wok,10940 Fairfax Blvd,Fairfax,VA,22030,(571) 432-1814,201,3.0,2
+Wah Luck Restaurant Carry-Out,1565 Alabama Ave SE,Washington,DC,20032,(202) 889-5453,1,1.0,0
+Penang Star,3434 Olney Laytonsville Rd,Olney,MD,20832,(301) 570-1700,39,3.0,2
+China King,2710 Washington Blvd,Arlington,VA,22201,(703) 527-9122,1,1.0,0
+Hong Kong Cafe,9441 Lorton Market St,Lorton,VA,22079,(703) 372-1577,36,2.5,2
+China King Restaurant,12140 Fairfax Town Ctr,Fairfax,VA,22033,(703) 691-3115,68,3.5,1
+Riverside Hotpot Cuisine,820 Muddy Branch Rd,Gaithersburg,MD,20878,(301) 330-8886,262,3.5,2
+Oriental Cafe,9745 Traville Gateway Dr,Rockville,MD,20850,(301) 424-1688,33,3.0,1
+Fortune Cookie Express,1286 State Rt 3 S,Crofton,MD,21114,(410) 721-8188,17,3.5,1
+Eastern Carryout,8555 Piney Branch Rd,Silver Spring,MD,20901,(301) 588-7688,6,3.0,0
+Panda Cafe,5119 Indian Head Hwy,Oxon Hill,MD,20745,(301) 686-1170,5,2.5,1
+House of China,6818 Riverdale Rd,Riverdale,MD,20737,(301) 459-6166,6,2.0,1
+East Delight Chinese Restaurant,6818 Race Track Rd,Bowie,MD,20715,(301) 262-8184,19,3.5,1
+Chinese Restaurant,8455-M Tyco Rd,Vienna,VA,22182,(302) 537-9956,4,3.0,2
+Panda Express,8871 Branch Ave Suite,Clinton,MD,20735,(301) 599-0171,14,3.5,1
+Oriental House,3415 Branch Ave,Temple Hills,MD,20748,(301) 423-8777,2,2.0,1
+Hunan Garden,12437 Hedges Run Dr,Woodbridge,VA,22192,(703) 494-5005,43,4.0,2
+Mama Wok,9900 Key W Ave,North Potomac,MD,20850,(301) 838-0380,109,3.0,2
+Maria’s Bakery & Cafe,1701 Rockville Pike,Rockville,MD,20852,(301) 984-2228,161,3.5,1
+Good Taste Express,13564 Minnieville Rd,Woodbridge,VA,22192,(703) 730-3063,49,4.0,1
+Hunan D’lite Restaurant,13263 Occoquan Rd,Woodbridge,VA,22191,(703) 490-1688,16,4.0,2
+Gui Lin,10054 Darnestown Rd,Rockville,MD,20850,(301) 424-2888,48,3.5,2
+Sakura City Bistro,7026 Wisconsin Ave,Chevy Chase,MD,20815,(301) 986-5140,3,2.5,0
+Micky’s Chinese Restaurant,18204 Contour Rd,Montgomery Village,MD,20877,(301) 956-1602,62,4.0,1
+Wenny’s,323 Montrose Ave,Laurel,MD,20707,(301) 362-8806,44,3.0,1
+Hunan To Go,13 Dawson Ave,Rockville,MD,20850,(301) 294-8199,30,3.0,1
+Kenny’s Sub Shop,10610-A Baltimore Ave,Beltsville,MD,20705,(301) 931-1111,12,2.5,1
+China American Inn,601 7th St,Laurel,MD,20707,(301) 317-1818,21,3.0,2
+Good Fortune Cafe,237 A Kentlands Blvd,Gaithersburg,MD,20878,(301) 216-2828,71,3.0,2
+China Express,3351 Corridor Marketplace,Laurel,MD,20724,(301) 617-0300,13,3.5,1
+Panda Express,8800 N Hampton Mall Dr,Capitol Heights,MD,20743,(301) 333-1791,16,3.0,1
+Taipei Tokyo -- Fallsgrove Village Center,14921-D Shady Grove Rd,Rockville,MD,20850,(301) 738-8813,121,2.5,2
+Danny’s,9900 Greenbelt Rd,Lanham,MD,20706,(301) 552-1860,7,2.5,2
+Great Wall Supermarket,2982 Gallows Rd,Falls Church,VA,22042,(703) 208-3320,128,3.5,1
+China Fong’s Carryout,7459 Annapolis Rd,Hyattsville,MD,20784,(301) 577-2222,7,1.5,2
+Yum’s Carryout,3300 Georgia Ave NW,Washington,DC,20010,(202) 387-6601,1,1.0,2
+Panda Express,8901 Wisconsin Ave,Bethesda,MD,20889,(240) 396-6522,4,1.5,1
+China House,14645 Jefferson Davis Hwy,Woodbridge,VA,22191,(703) 490-2750,16,4.0,1
+Hunan Gourmet,3300 Walters Ln,District Heights,MD,20747,(301) 420-0112,6,3.0,1
+Hunan Express,1153 MD Rt 3N,Gambrills,MD,21114,(301) 261-0484,28,3.0,1
+New Fortune,16515 S Frederick Ave,Gaithersburg,MD,20877,(301) 548-8886,184,3.0,2
+New China Carry Out,4121 Southern Ave,Capitol Heights,MD,20743,(301) 967-3975,2,4.0,2
+House of Mandarin,2303 Soapstone Dr,Reston,VA,20191,(703) 620-8888,43,2.5,1
+Universal Gourmet,2733 Crystal Dr,Arlington,VA,22216,(703) 418-1270,6,2.5,1
+Panda West,7405 Van Dusen Rd,Laurel,MD,20707,(301) 497-7621,14,3.0,1
+Johnny’s Sub Shop,2364 Iverson St,Temple Hills,MD,20748,(301) 423-6611,8,3.0,1
+Mannies Carry Out,2305 Varnum St,Mount Rainier,MD,20712,(301) 864-7110,4,2.0,0
+Taste @ Hong Kong,13912 Lee Jackson Memorial Hwy,Chantilly,VA,20151,(703) 378-7680,186,3.5,2
+Green Olive Buffet,7405 Richmond Hwy,Alexandria,VA,22306,(703) 765-5899,115,3.0,2
+Hunan Gardens,15712 Mount Oak Rd,Bowie,MD,20716,(301) 249-0068,19,3.0,2
+China Palace,1500 University Blvd E,Hyattsville,MD,20783,(301) 434-1370,2,2.0,0
+Pacifica Café,621 Center Point Way,Gaithersburg,MD,20878,(301) 519-3113,91,3.5,2
+JDS Shanghai Famous Food,519 Quince Orchard Rd,Gaithersburg,MD,20878,(301) 330-5555,184,3.5,2
+Shanghai Cafe,12944D Travilah Rd,Potomac,MD,20854,(301) 527-8970,23,3.0,2
+Tai Jung Restaurant,8811 Woodyard Rd,Clinton,MD,20735,(301) 868-8910,6,3.0,0
+Shanghai Cafe,12760 Darby Brook Ct,Woodbridge,VA,22192,(703) 494-8833,55,3.5,2
+Great China,1484 N Point Village Ctr,Reston,VA,20194,(703) 467-8080,48,3.0,2
+Eastern Panda,9442 Lanham Severn Rd,Lanham,MD,20706,(301) 918-3888,7,3.0,1
+Szechuan Garden,11149 Mall Cir,Waldorf,MD,20603,(301) 843-2770,76,3.0,2
+Ginger Beef Chinese Deli,7200 Telegraph Square Dr,Lorton,VA,22079,(703) 550-0007,22,3.0,1
+China Palace,1500 University Blvd E,Hyattsville,MD,20783,(301) 434-1370,2,2.0,0
+Distinct Taste,617 S Frederick Ave,Gaithersburg,MD,20877,(301) 987-0800,25,3.5,2
+JDS Shanghai Famous Food,519 Quince Orchard Rd,Gaithersburg,MD,20878,(301) 330-5555,184,3.5,2
+Shanghai Cafe,12944D Travilah Rd,Potomac,MD,20854,(301) 527-8970,23,3.0,2
+Great China,1484 N Point Village Ctr,Reston,VA,20194,(703) 467-8080,48,3.0,2
+Szechuan Garden,11149 Mall Cir,Waldorf,MD,20603,(301) 843-2770,76,3.0,2
+Bamboo Buffet,3501 S Jefferson St,Baileys Crossroads,VA,22041,(703) 671-8788,71,1.5,2
+Tokyo Sushi Asian Bistro,18301 Leaman Farm Rd,Germantown,MD,20874,(301) 528-5588,108,4.5,2
+Eddie’s Carry Out,10001 Stedwick Rd,Montgomery Village,MD,20886,,29,4.0,2
+Asian Bakery Cafe,763 Hungerford Dr,Rockville,MD,20850,(301) 838-3189,122,3.5,1
+Shang Hai Restaurant,3409 Morningwood Dr,Olney,MD,20832,(301) 570-2200,16,3.0,1
+China Cafe,13997 Metrotech Dr,Chantilly,VA,20151,(703) 802-1668,38,3.5,1
+China Village,32 Pidgeon Hill Dr,Sterling,VA,20165,(703) 433-2034,79,3.5,1
+Dumpling Queen,13942 Metrotech Dr,Chantilly,VA,20151,(703) 378-4222,109,3.5,2
+Hunan Manor Restaurant,7091 Deepage Dr,Columbia,MD,21045,(410) 381-1134,254,3.5,2
+China Chef,12114 Central Ave,Bowie,MD,20721,(301) 390-3888,8,2.5,1
+Ming’s Asian Bistro,251 Market St W,Gaithersburg,MD,20878,(301) 977-2222,66,3.0,2
+House of Chou,12508 Dillingham Sq,Woodbridge,VA,22192,(703) 590-0596,43,3.5,2
+Szechuan Delight,740 Cady Dr,Fort Washington,MD,20744,(301) 248-2484,3,1.5,1
+Kenny’s Subs Shop,130 Rollins Ave,Rockville,MD,20852,(301) 816-8988,74,3.0,1
+Gourmet Express,716 13th St SE,Washington,DC,20003,,0,0,0
+P.F. Chang’s,4250 Fairfax Corner Ave,Fairfax,VA,22030,(703) 266-2414,239,3.0,2
+Mandarin,1675-L Reston Pkwy,Reston,VA,20194,(703) 318-0900,32,3.0,1
+Friendship Chinese Carry-Out,6211 Dix St NE,Washington,DC,20019,(202) 398-3527,0,0,0
+Canton Delight,18550 Woodfield Rd,Gaithersburg,MD,20879,(301) 869-2818,32,3.5,1
+Johnny’s Carry Out,9329 Annapolis Rd,Lanham,MD,20706,(301) 577-7088,5,2.5,1
+China King,2415 Centreville Rd,Herndon,VA,20171,(703) 713-1132,47,3.0,1
+Danny’s Sub Shop,2306 Shorefield Rd,Silver Spring,MD,20902,(301) 962-0888,10,3.5,2
+Panda Express,11160 Veirs Mill Rd,Wheaton,MD,20902,(301) 942-0089,9,2.5,1
+Osaka Grill & Buffet,1633 Crofton Ctr,Crofton,MD,21114,(410) 721-1222,115,3.5,2
+The Best Little Cafe,13955 Metrotech Dr,Chantilly,VA,20151,(703) 817-0199,13,4.0,2
+China Taste,12717 Shoppes Ln,Fairfax,VA,22033,(703) 802-5888,26,3.0,2
+Asian Bakery Cafe,763 Hungerford Dr,Rockville,MD,20850,(301) 838-3189,122,3.5,1
+Panda Express,7040 Old Keene Mill Rd,Springfield,VA,22150,(703) 866-1966,35,2.5,1
+Charlie Chiang’s,14107 St. Germain Dr,Centreville,VA,20121,(703) 266-7300,121,3.5,2
+China Cafe,3935 Saint Charles Pkwy,Waldorf,MD,20602,(301) 705-8888,6,4.0,1
+Mai Dragon,2647-A Annapolis Rd,Hanover,MD,21076,(410) 551-6898,159,3.5,2
+Panda Chinese Restaurant,2241 Tacketts Mill Dr,Woodbridge,VA,22192,(703) 497-6688,28,3.5,1
+Jennys Carryout,4810 Silver Hill Rd,Suitland,MD,20746,(301) 420-5988,9,1.5,1
+Kangchon,5932 Centreville Crest Ln,Centreville,VA,20121,(703) 830-5209,114,3.5,2
+Jennys Carryout,4810 Silver Hill Rd,Suitland,MD,20746,(301) 420-5988,9,1.5,1
+Kangchon,5932 Centreville Crest Ln,Centreville,VA,20121,(703) 830-5209,114,3.5,2
+Jerry Leonard’s Carry Out,1430 Addison Road S,Capitol Heights,MD,20743,(301) 333-0464,1,3.0,0
+Gourmet Taste,13428 Jefferson Davis Hwy,Woodbridge,VA,22191,(703) 492-9030,22,3.0,1
+Hunan Cafe VII,2254 Hunters Woods Plz,Reston,VA,20191,(703) 391-9813,39,2.5,1
+China Express,5712 Union Mill Rd,Clifton,VA,20124,(703) 815-0125,35,3.0,2
+Little Taipei,1968 Daniel Stuart Sq,Woodbridge,VA,22191,(703) 497-2188,57,3.5,2
+Panda K Express,6210 Livingston Rd,Oxon Hill,MD,20745,(301) 839-8085,0,0,0
+Asian One,9900 Washington Blvd N,Laurel,MD,20723,(301) 483-3267,35,2.5,2
+Top China,4334 Dale Blvd,Woodbridge,VA,22193,(703) 897-7678,26,4.0,2
+Hunan Manor Ll,8081 Alban Rd,Springfield,VA,22150,(703) 455-6998,8,3.0,1
+Young Chow Cafe,6333 Multiplex Dr,Centreville,VA,20121,(703) 968-2751,39,3.5,2
+Hunan L’Rose,1131 Annapolis Rd,Odenton,MD,21113,(301) 621-9388,94,3.5,2
+Happy Fortune,310 Gorman Ave,Laurel,MD,20707,(301) 490-2998,5,3.5,2
+Chopsticks,7810a Lee Hwy,Falls Church,VA,22042,,17,2.5,2
+Hunan China Restaurant,8773 Piney Orchard Pkwy,Odenton,MD,21113,(410) 695-1388,17,3.0,1
+Sino’s Inn,14245H Centreville Square,Centreville,VA,20121,(703) 818-8989,110,3.5,2
+Hunan Lorton,8961 Ox Rd,Lorton,VA,22079,(703) 495-8686,25,2.5,1
+Beijing Restaurant,343 Smallwood Dr,Waldorf,MD,20602,(301) 645-0888,12,3.5,0
+House of Fortune,18062 Georgia Ave,Olney,MD,20832,(301) 774-2363,12,2.5,1
+Hunan Gaithersburg Restaurant,7601 Airpark Rd,Gaithersburg,MD,20879,(301) 330-4286,15,3.5,2
+Best Hunan,8630 Guilford Rd,Columbia,MD,21046,(410) 381-9798,24,3.0,2
+Pei Wei,2338 Woodland Crossing Dr.,Herndon,VA,20171,(703) 251-0090,89,3.0,2
+Charlie Chiang’s,7866E Tysons Corner Ctr,McLean,VA,22102,(703) 883-8051,19,1.5,2
+Lotus Vegetarian Restaurant,13872 Metrotech Dr,Chantilly,VA,20151,(703) 378-6888,205,4.0,2
+Hunan Dragon,9110 Richmond Hwy,Fort Belvoir,VA,22060,(703) 372-1011,4,3.0,0
+Johnny Sub Shop,8256 Richmond Hwy,Alexandria,VA,22309,(703) 360-6466,17,3.0,1
+Mr K’s Chinese Cafe,12611 Wisteria Dr,Germantown,MD,20874,(301) 916-0400,99,3.5,2
+Teppanyaki Grill and Buffet,5550 Randolph Rd,Rockville,MD,20852,(240) 833-2184,79,2.5,2
+Oriental Express,6063 Centreville Crest Ln,Centreville,VA,20121,(703) 968-9888,52,3.5,1
+Hong Kong Gourmet,1215 Annapolis Rd,Odenton,MD,21113,(410) 672-3970,32,3.5,2
+Fortune Gourmet,5706 Pickwick Rd,Centreville,VA,20121,(703) 802-1688,24,3.5,2
+China King Restaurant,141 Spring St,Herndon,VA,20170,(703) 478-3757,35,3.0,1
+New China Garden,3544 Crain Hwy,Bowie,MD,20716,,12,2.5,1
+Hunan Delight,3329 Superior Ln,Bowie,MD,20715,(301) 262-3888,13,3.0,1
+Peking Chinese Restaurant,7060 Oakland Mills Rd,Columbia,MD,21046,(410) 381-8580,32,3.5,1
+Cheng’s Oriental Restaurant,20921 Davenport Dr,Sterling,VA,20165,(703) 450-0439,117,3.5,2
+China Sea Restaurant,2620 Annapolis Rd,Severn,MD,21144,(410) 519-0072,31,3.5,2
+Jacky Chan,3225 Brinkley Rd,Temple Hills,MD,20748,(301) 630-0001,0,0,0
+Beijing Restaurant,12536 Mattawoman Dr,Waldorf,MD,20601,(301) 932-8777,8,3.0,1
+Yum Chen,6729 Annapolis Rd,Hyattsville,MD,20784,(301) 341-0008,0,0,0
+House of Fortune,13220 Wisteria Dr,Germantown,MD,20874,(301) 528-9968,47,3.5,2
+Drunken Noodles,5820 Royal Ridge Dr,Springfield,VA,22152,,1,4.0,0
+Charlie Chiang’s Kwai,7866 Tysons Corner Ctr,Mc Lean,VA,22102,(703) 883-8051,2,3.5,0
+Hunan Express,9134 Rothbury Dr,Montgomery Village,MD,20886,(301) 926-4771,29,3.5,1
+East Cafe,2973 Plaza Dr,Dunkirk,MD,20754,(410) 286-8178,17,3.0,1
+Big Bowl,11915 Democracy Dr,Reston,VA,20190,(703) 787-8852,385,3.0,2
+Mighty Khan’s,2501 Centreville Rd,Herndon,VA,20171,(703) 793-1600,108,3.5,2
+Tian Jin Palace,8411 Georgia Ave,Silver Spring,MD,20910,(301) 585-2275,3,3.5,0
+Pei Wei,4461 Market Commons Dr.,Fairfax,VA,22033,(703) 803-4466,128,3.0,1
+Cheng’s Oriental Restaurant,20921 Davenport Dr,Sterling,VA,20165,(703) 450-0439,117,3.5,2
+Hunan Express,9134 Rothbury Dr,Montgomery Village,MD,20886,(301) 926-4771,29,3.5,1
+Eddy”s Chinese Food,10216 Lake Arbor Way,Mitchellville,MD,20721,(301) 808-6666,1,1.0,0
+Peking Chinese Restaurant,7060 Oakland Mills Rd,Columbia,MD,21046,(410) 381-8580,32,3.5,1
+Beijing Restaurant,12536 Mattawoman Dr,Waldorf,MD,20601,(301) 932-8777,8,3.0,1
+China Sea Restaurant,2620 Annapolis Rd,Severn,MD,21144,(410) 519-0072,31,3.5,2
+House of Fortune,13220 Wisteria Dr,Germantown,MD,20874,(301) 528-9968,47,3.5,2
+Goodie’s Cafe,1641 Robert Crain Hwy,Crofton,MD,21114,(410) 721-8988,25,3.0,1
+Mighty Khan’s,2501 Centreville Rd,Herndon,VA,20171,(703) 793-1600,108,3.5,2
+China Express Carry-Out,3223 Plaza Way,Waldorf,MD,20603,(301) 932-9882,6,4.0,0
+Inchin’s Bamboo Garden,13059 Worldgate Dr,Herndon,VA,20170,(703) 467-9118,120,3.0,2
+King Wok,46950 Community Plz,Sterling,VA,20164,(703) 430-1307,42,2.5,1
+China House,4110 Mount Vernon Ave,Alexandria,VA,22305,(703) 838-2920,0,0,0
+Eastern Carry Out,4807 Allentown Rd,Suitland,MD,20746,(301) 669-0038,2,3.5,1
+Pinch,11806 Rockville Pike,Rockville,MD,20852,,1,2.0,1
+China King,21025 Southbank St,Sterling,VA,20165,(703) 450-7773,38,3.0,1
+Golden China,4620 Saint Barnabas Rd,Temple Hills,MD,20748,(301) 423-3530,2,2.0,2
+Royal Dragon,4832 Boiling Brook Pkwy,Rockville,MD,20852,(301) 468-1922,15,2.5,2
+China Village,1080 Elden St,Herndon,VA,20170,(703) 668-0401,13,3.5,1
+China Chef Enterprises,5925 Martin Luther King Jr Hwy,Capitol Heights,MD,20743,(301) 333-1182,1,1.0,0
+China Kitchen,7022 Spring Garden Dr,Springfield,VA,22150,(703) 913-2900,1,3.0,1
+Eddy”s Chinese Food,10216 Lake Arbor Way,Mitchellville,MD,20721,(301) 808-6666,1,1.0,0
+Spring Garden Chinese,19703 Frederick Rd,Germantown,MD,20876,(240) 686-1892,28,3.5,2
+King Buffet,3020 Donnell Dr,District Heights,MD,20747,(301) 516-8888,0,0,0
+Red Pepper,13075 Fair Lakes Shopping Ctr,Fairfax,VA,22033,(703) 502-9407,41,3.0,2
+Asian Cafe Chantilly,4300 Chantilly Shopping Ctr,Chantilly,VA,20151,(703) 961-9118,14,3.5,1
+Hunan Cafe,415 S Sterling Blvd,Sterling,VA,20164,(703) 433-0966,19,3.0,1
+Luna Nueva Restaurant,6621 Wilson Blvd,Falls Church,VA,22044,(703) 533-1596,14,3.5,2
+Hunan Best Restaurant,18212 Flower Hill Way,Gaithersburg,MD,20879,(301) 948-6806,17,3.0,2
+Hearty’s Chinese Restaurant,13322 Laurel Bowie Rd,Laurel,MD,20708,(301) 776-1100,8,2.0,2
+Hunan Best Restaurant,18212 Flower Hill Way,Gaithersburg,MD,20879,(301) 948-6806,17,3.0,2
+Red Pepper,13075 Fair Lakes Shopping Ctr,Fairfax,VA,22033,(703) 502-9407,41,3.0,2
+Eastern Chinese,7045 Berry Rd,Accokeek,MD,20607,(301) 283-4770,0,0,0
+Glory Garden,8405 Snouffer School Rd,Gaithersburg,MD,20879,(301) 990-8200,17,3.5,1
+China East,14050 Travilah Rd,Rockville,MD,20850,(301) 309-6338,17,3.0,1
+China Food Restaurant,4628 Suitland Rd,Suitland,MD,20746,(301) 735-1999,0,0,0
+China Garden,45999 Regal Plz,Sterling,VA,20165,(703) 444-7801,27,3.0,1
+Asiana Restaurant,2570 Business Park Ct,Waldorf,MD,20601,(301) 932-7695,8,3.5,1
+Hunan Cafe,415 S Sterling Blvd,Sterling,VA,20164,(703) 433-0966,19,3.0,1
+China House,10845 Lanham-Severn Rd,Glenn Dale,MD,20769,(301) 262-8800,0,0,0
+Peking Chef Restaurant,6420 Freetown Rd,Columbia,MD,21044,(410) 531-2828,32,3.0,2
+Sichuan Village,14005 Lee Jackson Memorial Hwy,Chantilly,VA,20151,(703) 631-5888,102,2.5,2
+Panda Express,6477 Old Beulah St,Alexandria,VA,22315,(703) 971-9628,8,2.0,1
+Li’s Hunan Village,13539 Clopper Rd,Germantown,MD,20874,(301) 972-1108,7,4.0,1
+Quick Wok,2288 Blue Water Blvd,Odenton,MD,21113,(410) 672-3887,18,2.5,2
+China Bay,4307 Saint Barnabas Rd,Temple Hills,MD,20748,(301) 423-4888,1,1.0,1
+Mandarin Court,17233 Wayside Dr,Dumfries,VA,22026,(703) 441-8850,110,4.0,2
+Eastern Chinese,7045 Berry Rd,Accokeek,MD,20607,(301) 283-4770,0,0,0
+China Dragon,8610 Washington Blvd,Jessup,MD,20794,(301) 604-8584,7,3.0,2
+Royal Golden,1141 Elden St,Herndon,VA,20170,(703) 657-3222,31,2.5,1
+Mandarin Express,3500 E-w Hwy,Hyattsville,MD,20782,(301) 559-1300,1,4.0,1
+Golden House,4131 Cheshire Station Plz,Woodbridge,VA,22193,(703) 878-8868,18,3.5,1
+China East,14050 Travilah Rd,Rockville,MD,20850,(301) 309-6338,17,3.0,1
+Shanghai Tokyo Cafe,7185 Columbia Gateway Dr,Columbia,MD,21046,(410) 312-2888,65,3.0,1
+South China,700 King St,Alexandria,VA,22314,(703) 673-5600,0,0,0
+China Taste Restaurant,14707 Main St,Upper Marlboro,MD,20772,(301) 627-9177,13,1.5,1
+Cafe Hong Kong,13038 Middlebrook Rd,Germantown,MD,20874,(301) 972-6363,62,3.0,2
+Pei Wei,6478 Dobbin Center Way,Columbia,MD,21045,(410) 423-2550,122,3.5,1
+Jang Won Bon Jum,13814 Braddock Rd,Centreville,VA,20121,(703) 266-3881,52,3.0,2
+Enticing Eats,2941 Fairview Park Dr,Falls Church,VA,22042,(703) 226-2264,0,0,0
+Jang Won Bon Jum,13814 Braddock Rd,Centreville,VA,20121,(703) 266-3881,52,3.0,2
+Enticing Eats,2941 Fairview Park Dr,Falls Church,VA,22042,(703) 226-2264,0,0,0
+Peking Cafe,4054 Walney Rd,Chantilly,VA,20151,(703) 817-9830,27,3.0,1
+Hunan Odenton,8318 Telegraph Rd,Odenton,MD,21113,(410) 672-2735,31,3.0,2
+Hearty’s,227 Muddy Branch Rd,Gaithersburg,MD,20878,(301) 926-1100,9,3.0,1
+Family Fortune,2913 Arlington Dr,Alexandria,VA,22306,(703) 768-1111,1,5.0,0
+Eastern Restaurant,15789 Livingston Rd,Accokeek,MD,20607,(301) 203-6868,6,2.5,2
+Madras Chopsticks,2465 Centreville Rd,Herndon,VA,20171,(703) 561-0123,76,3.0,2
+Hong Kong Kitchen,5685 Suitland Rd,Suitland,MD,20746,(301) 736-0484,0,0,0
+Empire Restaurant,4212 Merchant Plz,Woodbridge,VA,22192,,26,3.5,2
+Panda Express,7941 L Tyson Comer Ctr,Mclean,VA,22102,(703) 442-7987,15,3.0,1
+Panda Express,11941 Fair Oaks Mall,Fairfax,VA,22033,(703) 359-2863,24,3.0,1
+Kings Buffet,21950 Cascades Pkwy,Sterling,VA,20164,(703) 421-6988,56,3.0,2
+Tian,5900 Centreville Crest Ln.,Centreville,VA,20121,(703) 825-1033,6,4.5,1
+Johnny’s Sub Shop,6309 Allentown Rd,Temple Hills,MD,20748,(301) 433-0006,0,0,0
+Szechuan and Hunan Taste,1431 Center St,Mc Lean,VA,22101,(703) 790-9568,0,0,0
+Old Shanghai Cafe,21040 Frederick Rd,Germantown,MD,20876,(301) 528-8918,64,3.0,2
+Goldengate Chinese Restaurant,175 Smallwood Village Ctr,Waldorf,MD,20602,(301) 645-8907,2,4.0,2
+China Restaurant,513 23rd St S,Arlington,VA,22202,(703) 979-6626,0,0,0
+Royal Buffet,492 Elden St,Herndon,VA,20170,(703) 481-8585,49,2.5,2
+Hula Inn,46000 Old Ox Rd,Sterling,VA,20166,(703) 471-9000,18,2.5,1
+Cee Cee China,3904 Parsons Rd,Chevy Chase,MD,20815,(301) 652-6226,0,0,0
+Peking Express,13999 Jefferson Davis Hwy,Woodbridge,VA,22191,(703) 490-8222,8,3.5,1
+Lee’s Szechuan,672 Old Mill Rd,Millersville,MD,21108,(410) 987-6111,64,4.0,2
+Red Parrot Asian Bistro,7698 Dorchester Blvd,Hanover,MD,21076,(410) 799-4573,194,3.0,2
+China Express,8000 Martin Luther King Jr Hwy,Lanham,MD,20706,(301) 322-1417,0,0,0
+Golden Coast Chinese Restaurant,8851 Gorman Rd,Laurel,MD,20723,(301) 776-1050,17,2.0,1
+Peking Chef Restaurant,5605 Mapledale Plz,Woodbridge,VA,22193,(703) 878-2888,13,3.0,1
+Nulbom Pocha Restaurant,13860 Braddock St,Centreville,VA,20121,(703) 830-0417,12,3.5,2
+Panda West Restaurant,87 Sugarland Run Dr,Sterling,VA,20164,(703) 406-8689,11,2.5,1
+Hunan Village Restaurant,8863 Greenbelt Rd,Greenbelt,MD,20770,(301) 552-2288,0,0,0
+Panda Express,5410 Silver Hill Rd,District Heights,MD,20747,(301) 736-0680,12,3.0,1
+Benny’s Chinese Restaurant,4457 Crain Hwy,White Plains,MD,20695,(301) 893-8008,4,4.0,0
+New Hunan,5151 Waterway Dr,Dumfries,VA,22025,(703) 580-8764,18,4.0,1
+Hunan Hamlet,10820 Rhode Island Ave,Beltsville,MD,20705,(301) 595-3340,1,2.0,0
+Orient Gardens,20024 Goshen Rd,Gaithersburg,MD,20879,(301) 869-2300,13,2.5,2
+Goodies,8030 Matthews Rd,Bryans Road,MD,20616,(301) 375-7235,1,4.0,0
+Great Wall Chinese Restaurant,6325 Washington Blvd,Elkridge,MD,21075,(410) 379-1358,24,4.0,1
+China Gourmet,4313 Dale Blvd,Woodbridge,VA,22193,(703) 670-6121,16,3.0,2
+China King Buffet,14345 Potomac Mills Rd,Woodbridge,VA,22192,(703) 497-8883,69,3.0,2
+Eastern Carryout,11489 Berry Rd,Waldorf,MD,20603,(301) 705-8809,2,2.0,1
+New China Carry Out,4205 Annandle Center Dr,Falls Church,VA,22041,(703) 941-2663,0,0,0
+China Inn,3075 Nutley St,Fairfax,VA,22031,(703) 280-2897,0,0,0
+Montclair Chinese Cuisine,4389 Kevin Walker Dr,Montclair,VA,22025,(703) 878-9444,22,3.5,2
+Panda Express,6739 Springfield Mall,Springfield,VA,22150,(703) 922-9619,2,2.0,1
+Taipei Tokyo Village,1596 Rockville Pike,Rockville,MD,20852,(301) 881-8533,4,2.5,0
+Peter’s Carryout,87 Kettering Dr,Upper Marlboro,MD,20774,(301) 336-8300,6,2.0,2
+Pei Wei,22000 Dulles Retail Plaza,Dulles,VA,20166,(703) 421-5590,86,2.5,2
+China Express Carry Out,414 Lincoln St,Rockville,MD,20850,(301) 838-4353,1,1.0,0
+Lucky’s China Inn,5865 Robert Oliver Pl,Columbia,MD,21045,(410) 997-5454,36,3.0,1
+Panda Express,701 Russel Ln Fc-108,Gaithersburg,MD,20877,(240) 632-1027,3,3.0,1
+Chopsticks House,46900 Cedar Lake Plz,Sterling,VA,20164,,18,3.0,1
+Golden Dragon,12778 Old Fort Rd,Fort Washington,MD,20744,(301) 292-5050,0,0,0
+Beijing Star,6316 Hoadly Rd,Manassas,VA,20112,(703) 878-8088,14,3.0,1
+Panda Express,4400 University Dr,Fairfax,VA,22030,(703) 993-6042,0,0,0
+Chinaway,156 Enterprise St,Sterling,VA,20164,(703) 450-5650,8,3.0,1
+P.F. Chang’s,15151 Potomac Town Place,Woodbridge,VA,22191,(703) 986-1133,199,2.5,2
+Golden China,660 S Pickett St,Alexandria,VA,22304,,0,0,0
+Panda Express,7101 Democracy Blvd,Bethesda,MD,20817,(301) 365-0390,12,3.0,1
+Chinese,1630 S Fern St,Arlington,VA,22202,,0,0,0
+Oriental Express,45665 W Church Rd,Sterling,VA,20164,(703) 430-2689,32,2.5,2
+China King,8035 Snouffer School Rd,Gaithersburg,MD,20879,(301) 948-5420,17,2.5,2
+Hunan Express,6030 Marshalee Dr,Elkridge,MD,21075,(410) 796-8738,19,4.0,1
+S and S Suen,5055 Nicholson Ln,Rockville,MD,20852,(301) 881-5552,0,0,0
+Chinese Television System Taiwan,1273 National Press Bldg,Washington,DC,20045,(202) 662-8950,0,0,0
+Jerry Yum’s,183 Saint Patricks Dr,Waldorf,MD,20603,(301) 632-6009,9,1.5,2
+Le Restaurant,2533 Ennalls Ave,Silver Spring,MD,20902,(301) 949-2022,0,0,0
+China Express,13752 Smoketown Rd,Woodbridge,VA,22192,(703) 878-9898,12,2.0,1
+P.F. Chang’s,21078 Dulles Town Circle,Sterling,VA,20166,(703) 421-5540,131,3.0,2
+Manchu Wok,6501F Springfield Mall,Springfield,VA,22150,(703) 922-0986,0,0,0
+Ichiban Cafe,6250 Columbia Crossing Dr,Columbia,MD,21045,(410) 290-1898,137,3.0,2
+Fortune Cooky Restaurant,7978 Crain Hwy S,Glen Burnie,MD,21061,(410) 969-3310,48,3.5,2
+Asian Cafe,6729 Annapolis Rd,Hyattsville,MD,20784,(301) 341-0008,0,0,0
+Panda Express,15102 Baltimore Ave,Laurel,MD,20707,(301) 604-3442,20,2.5,1
+Mt Wheaton Food-Dba Ming Tree,1160 Veirs Mill Rd,Rockville,MD,20851,(301) 933-3173,4,2.0,0
+Panda Express,1100 Smallwood Dr W,Waldorf,MD,20603,(301) 632-6101,11,2.5,1
+Panda Express,19847 Century Blvd,Germantown,MD,20874,(301) 916-0690,20,3.0,1
+Jen’s Chinese Restaurant,None,Gaithersburg,MD,20885,,2,4.0,0
+Happy Garden,7284 Cradlerock Way,Columbia,MD,21045,(410) 381-5280,7,3.0,1
+Hunan Lion,6500 Old Waterloo Rd,Elkridge,MD,21075,(410) 799-0868,21,3.0,1
+Kenny’s Sub Shop,288 N Frederick Ave,Gaithersburg,MD,20877,(301) 963-2038,29,3.0,2
+Asia Cafe,12819 Wisteria Dr,Germantown,MD,20874,(301) 528-6610,12,2.5,1
+Peking Village,2962 Gallows Rd,Falls Church,VA,22042,(703) 698-9223,0,0,0
+Church King Buffet,10644 Campus Way S,Upper Marlboro,MD,20774,(301) 324-5464,7,1.0,2
+Orient Express,7304 Parkway Dr,Hanover,MD,21076,(410) 712-0105,15,2.5,1
+Hibachi Grill & Supreme Buffet,1965 Daniel Stuart Sq,Woodbridge,VA,22191,(703) 595-2388,95,3.0,2
+New China,660 S Pickett St,Alexandria,VA,22304,(703) 751-8888,0,0,0
+China King,7165 Baltimore Annapolis Blvd,Glen Burnie,MD,21061,(410) 787-8888,23,3.5,2
+Wok Express Chinese Restaurant,9615 Lost Knife Rd,Gaithersburg,MD,20877,(301) 948-8788,4,3.0,0
+China Restaurant,8411 Georgia Ave,Silver Spring,MD,20910,(301) 585-2275,0,0,0
+China Kitchen,6501 Huntshire Dr,Elkridge,MD,21075,(410) 579-6990,19,2.5,2
+Chin Jong Jip,5900 Centreville Crest Ln,Centreville,VA,20121,(703) 543-8977,2,4.5,1
+Peking Restaurant,15504 Old Columbia Pike,Burtonsville,MD,20866,(301) 421-1131,0,0,0
+Hibachi Grill Restaurant,1965 Daniel Stuart Sq,Woodbridge,VA,22191,(703) 490-0888,2,4.5,0
+Noodles & Company,122 Park St,Vienna,VA,22180,,0,0,0
+Virginia Grill Room,301 Mill St NE,Vienna,VA,22180,(703) 491-1888,0,0,0
+Four Rivers,184 Rollins Ave,Rockville,MD,20852,(301) 230-2900,0,0,0
+China Gourmet,6653 Little River Tpke,Annandale,VA,22003,(703) 642-9898,0,0,0
+Luk Fu,7002 Arundel Mills Cir,Hanover,MD,21076,(443) 842-7000,67,2.5,2
+Masala Wok,905 Herndon Pkwy,Herndon,VA,20170,(703) 657-0216,154,3.0,2
+Michael Round Fine China & Crystal,Backlick Rd Ste G,Lorton,VA,22079,(800) 752-6622,0,0,0
+China Gourmet Restaurant,9901 Fairfax Blvd,Fairfax,VA,22030,(703) 293-9898,0,0,0
+China 1,17076 Jefferson Davis Hwy,Dumfries,VA,22026,(703) 221-8884,18,2.5,1
+Taste of Village,16593 River Ridge Blvd,Woodbridge,VA,22191,(703) 634-2199,7,3.5,0
+International Square,1850 K St NW,Washington,DC,20006,(202) 223-1850,7,2.5,0
+Benny’s Chinese Restaurant,9111 Central Ave,Capitol Heights,MD,20743,(301) 808-0010,0,0,0
+Golden Gate Chinese,175 Smallwood Village,Waldorf,MD,20602,(301) 645-3488,5,1.0,2
+Golden Pearl,10547 Greenbelt Rd,Lanham,MD,20706,(301) 352-3997,0,0,0
+Wenny’s LLC,943 Washington Blvd,Laurel,MD,20707,(301) 362-8806,2,3.5,0
+China City Express,City Place Mall,Silver Spring,MD,20901,(301) 589-8404,0,0,0
+Panda Express,881-I Capital Center Dr,Largo,MD,20774,(301) 350-2578,6,2.5,1
+China Wok II Chinese Restaurant,7800 Parke West Dr Ste 11,Glen Burnie,MD,21061,(410) 590-6887,11,3.0,1
+Empress Gourmet,13912 Lee Jackson Mmrl Hwy,Chantilly,VA,20151,(703) 830-8558,1,4.0,0
+Express Cafe,6007 Centreville Crest Ln,Centreville,VA,20121,(703) 815-8000,9,2.5,2
+Panda Cafe,4205 Indian Head Hwy,Indian Head,MD,20640,(301) 743-6612,4,1.5,1
+Asian Pan,3974 Fettler Park Dr,Dumfries,VA,22025,(703) 221-4880,37,2.5,1
+Kuki Chinese,7502 Connelley Drive,Severn,MD,21076,(410) 863-1231,18,2.5,1
+Organization of Chinese-Americans,1001 Connecticut Ave NW,Washington,DC,20036,(202) 223-5500,0,0,0
+Hot Wok Chinese Restaurant,452 N Camp Meade Rd,Linthicum Heights,MD,21090,(410) 636-8484,18,3.5,1
+Embassy Chinese,2701 Calvert St NW Apt 106,Washington,DC,20008,(202) 248-2339,0,0,0
+Mayflower VI,10750 Hickory Ridge Rd,Columbia,MD,21044,(410) 740-9898,21,2.5,1
+House of Poolesville,19611 Fisher Ave,Poolesville,MD,20837,(301) 349-2935,21,4.0,2
+China Star Restaurant,18204 Contour Rd,Montgomery Village,MD,20877,(301) 947-0104,2,3.0,2
+Fu Jian Chen Szechuan Restaurant,4551 Duke St,Alexandria,VA,22304,(703) 370-5166,0,0,0
+Panda Express,7351 Assateague Dr,Jessup,MD,20794,(410) 799-7027,13,3.0,1
+Big Bowl,2338 Woodland Crossing Dr,Herndon,VA,20171,,2,3.5,0
+China House,337 Hospital Dr,Glen Burnie,MD,21061,(410) 766-8885,12,3.0,1
+New China Chinese Restaurant,14360 Minnieville Rd,Woodbridge,VA,22193,(703) 897-0399,6,2.5,1
+Bruce Lee Kitchen,13 Aquahart Rd,Glen Burnie,MD,21061,(410) 863-1678,12,3.5,2
+Panda Express,14220 Centreville Square,Centreville,VA,20122,(703) 830-8676,33,3.0,1
+Panda Express,14220 Centreville Square,Centreville,VA,20122,(703) 830-8676,33,3.0,1
+Grand Asian,2654 Chapel Lake Dr,Gambrills,MD,21054,(410) 721-4100,1,3.0,0
+Ocean Chinese Carryout,529 S Camp Meade Rd,Linthicum,MD,21090,(410) 691-2222,16,3.5,1
+Chinese Food,Norfolk,Bethesda,MD,20814,,0,0,0
+Great China Restaurant,117 E Diamond Ave,Gaithersburg,MD,20877,(301) 840-9474,0,0,0
+Master Wok,21100 Dulles Town Cir,Sterling,VA,20166,(703) 433-0413,11,2.0,1
+Oriental Gourmet,19635 Fisher Ave,Poolesville,MD,20837,(301) 349-9898,5,4.5,0
+Woodbine Chinese Cuisine,13456 Dumfries Rd,Manassas,VA,20112,(703) 794-1668,14,2.5,2
+Bamboo Carryout,7075 Baltimore Annapolis Blvd,Glen Burnie,MD,21061,(410) 859-8868,21,3.5,1
+Dragon House,16701 River Ridge Blvd,Woodbridge,VA,22191,(703) 221-2617,6,2.5,1
+Yum’s Carryout,3943 Minnesota Avenue NE,Washington,DC,20019,(202) 396-7811,2,2.5,0
+New China,14630 Minnieville Rd,Woodbridge,VA,22193,(703) 897-0399,6,2.5,1
+Dragon Chinese Restaurant,227 Muddy Branch Rd,Gaithersburg,MD,20878,(301) 330-6222,0,0,0
+Dai kim,332 Hospital Dr,Glen Burnie,MD,21061,(410) 768-3744,9,2.0,2
+22033 Chinese Resturants,12731 Marboro Ln,Fairfax,VA,22033,,0,0,0
+China Gourmet,685 Old Mill Rd,Millersville,MD,21108,(410) 729-2598,11,2.5,2
+Hong Kong Chinese Restaurant,7389 Baltimore Annapolis Blvd,Glen Burnie,MD,21061,(410) 766-2268,7,3.0,1
+China King Restaurant,4110 W Ox Rd,Fairfax,VA,22033,(703) 691-3115,1,1.0,0
+China Luck Restaurant & Lounge,227 Muddy Branch Rd,Gaithersburg,MD,20878,(301) 921-9288,0,0,0
+Panda Express,2990 Prince William Pkwy,Woodbridge,VA,22192,(703) 670-9168,24,2.5,1
+Yeung’s Lotus Express,7000 Arundel Mills Cir,Hanover,MD,21076,,19,1.0,2
+Oriental Gourmet,19635 Fisher Ave,Poolesville,MD,20837,(301) 349-9898,5,4.5,0
+Kabob’s Delicioso,317 S Sterling Blvd,Sterling,VA,20164,(703) 421-2233,0,0,2
+Hunan Chinese Restaurant,6590 Old Waterloo Rd,Elkridge,MD,21075,(410) 799-4870,1,3.0,0
+China Kitchen,5039 Garrett Ave,Beltsville,MD,20705,(301) 937-0297,0,0,0
+Beijing Chinese Carry Out,13924 Lee Hwy,Centreville,VA,20120,(703) 830-8400,0,0,0
+Gourmet Garden,8775 Cloudleap Ct,Columbia,MD,21045,(410) 997-5005,4,1.0,4
+Great Wall,16708 Jefferson Davis Hwy,Dumfries,VA,22026,(703) 221-9998,1,1.0,0
+Hao Kou Fu,19721 North Frederick Rd,Germantown,MD,20876,,1,4.0,0
+Panda Mgmt,13710 Central Ave,Upper Marlboro,MD,20774,(301) 218-7610,0,0,0
+Bombay Garden,46950 Community Plz,Sterling,VA,20164,(703) 450-6900,0,0,0
+US Teleservices,4335 Chantilly Shopping Ctr,Chantilly,VA,20151,(703) 263-2341,0,0,0
+Moun Wok Chinese Restaurant,Potomac Mills Cir,Woodbridge,VA,22191,(703) 494-1827,0,0,0
+Yeung’s Lotus Express,2700 Potomac Mills Cir,Woodbridge,VA,22192,(703) 494-1827,7,1.5,1
+Pagoda House Restaurant,Laurel Plaza Shopping Center Ctr,Laurel,MD,20707,(301) 776-5313,0,0,0
+Penang Star Diner,7185 Columbia Gateway Dr,Columbia,MD,21046,(410) 312-2888,8,2.5,1
+Happy House,14315 Compton Rd,Centreville,VA,20121,(703) 830-8811,0,0,0
+New China,3065 Centreville Rd Unit P,Herndon,VA,20171,(703) 318-8866,0,0,0
+Genji Express,316 Kentlands Blvd,Gaithersburg,MD,20878,(301) 258-9500,0,0,0
+China Express Carry Out,3223 Plaza Way,Waldorf,MD,20603,(301) 870-8991,0,0,0
+Ichiban Express & China Gourmet,685 Old Mill Rd,Millersville,MD,21108,(410) 863-7268,1,4.0,0
+China Garden,1659 Crofton Ctr,Crofton,MD,21114,(410) 721-5272,0,0,0
+Cabin John American-Chinese United Methodist Chrch,7703 MacArthur Blvd,Cabin John,MD,20818,(301) 229-8233,0,0,0
+Dining Out,5865 Robert Oliver Pl Ste D,Columbia,MD,21045,(410) 977-5454,0,0,0
+Maple House Chinese Restaurant,13924 Lee Hwy,Centreville,VA,20120,(703) 266-3331,0,0,0
+Oriental Express,916 E West Hwy,Takoma Park,MD,20912,(301) 270-0509,0,0,0
+Organization of Chinese American Women,4641 Montgomery Ave Ste 208,Bethesda,MD,20814,(301) 907-3898,0,0,0
+Chinatown,1163 University Blvd E,Takoma Park,MD,20912,(301) 439-2288,0,0,0
+Manassas Restaurant,7904 Scully Ct,Manassas,VA,20111,,0,0,0
+Palm Tree Chinese Cuisine,14313 Potomac Mills Rd,Woodbridge,VA,22192,(703) 491-4900,0,0,0
+Happy House,14315 Compton Rd,Centreville,VA,20121,(703) 830-8811,0,0,0
+New China,3065 Centreville Rd Unit P,Herndon,VA,20171,(703) 318-8866,0,0,0
+Genji Express,316 Kentlands Blvd,Gaithersburg,MD,20878,(301) 258-9500,0,0,0
+China Express Carry Out,3223 Plaza Way,Waldorf,MD,20603,(301) 870-8991,0,0,0
+Ichiban Express & China Gourmet,685 Old Mill Rd,Millersville,MD,21108,(410) 863-7268,1,4.0,0
+China Garden,1659 Crofton Ctr,Crofton,MD,21114,(410) 721-5272,0,0,0
+Cabin John American-Chinese United Methodist Chrch,7703 MacArthur Blvd,Cabin John,MD,20818,(301) 229-8233,0,0,0
+Dining Out,5865 Robert Oliver Pl Ste D,Columbia,MD,21045,(410) 977-5454,0,0,0
+Benny’s Carry Out,5803 Baltimore Ave,Riverdale,MD,20737,(301) 779-7750,7,2.5,0
+Chinese Cultural and Community Service Center,16039 Comprint Cir,Gaithersburg,MD,20877,(240) 631-1200,0,0,0
+Chinese Alliance of Fairfax,12113 Vale Rd,Oakton,VA,22124,(703) 264-1275,0,0,0
+Charlie Chiang’s Kwai,7062 Elm Rd,Baltimore,MD,21240,(410) 850-0850,4,2.0,0
+Manchu Wok,Bwi Airport,Linthicum Heights,MD,21090,(410) 859-8174,9,2.0,2
+Chinese Bible Church of Howard County,RR 108,Columbia,MD,21044,(410) 997-5439,0,0,0

@@ -1,0 +1,741 @@
+Restaurant name,Street address,City,State,Zip,Phone,Number of reviews, Rating, Price range
+Taqueria Habanero,3710 14th St NW,Washington,DC,20010,(202) 722-7700,292,4.5,1
+El Sol Restaurante,1227 11th St NW,Washington,DC,20001,(202) 815-4789,113,4.5,2
+District Taco,1309 F St NW,Washington,DC,20004,(202) 347-7359,987,4,1
+Tortilla Cafe,210 7th St SE,Washington,DC,20003,(202) 547-5700,471,4,1
+Tico DC,1926 14th St NW,Washington,DC,20009,(202) 319-1400,517,4,2
+Tacos El Chilango,1119 V St NW,Washington,DC,20009,(202) 986-3030,205,4,1
+Lezo’s Taqueria,3213 Mount Pleasant St Nw,Washington,DC,20010,(202) 265-0243,42,4.5,1
+El Centro DF - Georgetown,1218 Wisconsin Ave NW,Washington,DC,20007,(202) 333-4100,515,3.5,2
+Far East Taco Grille,409 15th St NE,Washington,DC,20002,(202) 601-4346,106,4.5,1
+Oyamel Cocina Mexicana,401 7th St NW,Washington,DC,20004,(202) 628-1005,1921,3.5,3
+El Centro DF - 14th St,1819 14th St NW,Washington,DC,20009,(202) 328-3131,1176,4,2
+Dulcinea Bar & Grill,2618 Georgia Ave NW,Washington,DC,20001,(202) 265-0868,76,4,2
+District Taco,1919 M St NW,Washington,DC,20036,(202) 888-9898,214,3.5,1
+Lauriol Plaza,1835 18th St NW,Washington,DC,20009,(202) 387-0035,1524,3.5,2
+El Rinconcito II,1326 Park Rd,Washington,DC,20010,(202) 299-1076,205,4,2
+Las Placitas,1100 8th St SE,Washington,DC,20003,(202) 543-3700,32,4,2
+Cactus Cantina,3300 Wisconsin Ave NW,Washington,DC,20016,(202) 686-7222,565,3.5,2
+El Camino,108 Rhode Island Ave NW,Washington,DC,20001,(202) 847-0419,109,3.5,2
+J & J Mex-Taqueria,6231 Georgia Ave NW,Washington,DC,20011,(202) 525-3450,37,4.5,1
+Pica Taco,1406 Florida Ave NW,Washington,DC,20009,(202) 518-6820,212,4,1
+Espita Mezcaleria,1250 Ninth St NW,Washington,DC,20001,(202) 621-9695,144,3.5,2
+Rosa Mexicano,575 7th St NW,Washington,DC,20004,(202) 783-5522,953,3.5,2
+El Chucho,3313 11th St NW,Washington,DC,20010,(202) 290-3313,443,3.5,2
+MXDC,600 14th St NW,Washington,DC,20005,(202) 393-1900,344,3.5,2
+District Taco,656 Pennsylvania Ave SE,Washington,DC,20003,(202) 735-5649,239,4,1
+Mission,1606 20th St,Washington,DC,20009,(202) 525-2010,359,3.5,2
+Taqueria & Rosticeria Fresca,701 H St NE,Washington,DC,20002,(202) 544-1579,50,4,1
+Far East Taco Grille,635 Florida Ave NE,Washington,DC,20002,(202) 544-4116,23,4.5,1
+Pedro & Vinny’s,1500 K St NW,Washington,DC,20005,(571) 237-1875,146,4,1
+Impala Cantina,1358 H St NE,Washington,DC,20002,(202) 733-3427,120,3.5,2
+Super Tacos & Bakery,1762 Columbia Rd NW,Washington,DC,20009,(202) 232-7122,304,3.5,1
+Los Cuates,1564 Wisconsin Ave NW,Washington,DC,20007,(202) 965-7009,256,3,2
+The Well Dressed Burrito,1220 19th St NW,Washington,DC,20036,(202) 293-0515,212,3.5,1
+Far East Taco Grille - Truck,None,Washington,DC,20009,(202) 601-4346,204,4,1
+Taqueria Distrito Federal,3463 14th St NW,Washington,DC,20010,(202) 276-7331,381,3.5,1
+Chupacabra,822 H St NE,Washington,DC,20002,(202) 505-4628,131,3.5,2
+Jaco Juice and Taco Bar,1614 Wisconsin Ave NW,Washington,DC,20007,(202) 505-2216,94,4,2
+SOL Mexican Grill,1251 H St NE,Washington,DC,20002,(202) 808-2625,229,3.5,1
+Guapo’s Restaurant,4515 Wisconsin Ave NW,Washington,DC,20016,(202) 686-3588,344,3.5,2
+Agua 301,301 Water St SE,Washington,DC,20003,(202) 484-0301,298,3,2
+Rito Loco Restaurant,None,None,None,None,(202) 836-4270,77,4,1
+La Plaza Restaurant,629 Pennsylvania Ave SE,Washington,DC,20003,(202) 546-9512,117,3.5,2
+El Rey,919 U St NW,Washington,DC,20001,(202) 506-6418,220,3.5,2
+Taqueria Nacional,1409 T St NW,Washington,DC,20009,(202) 299-1122,229,3.5,2
+La Lomita Dos,308 Pennsylvania Ave SE,Washington,DC,20003,(202) 544-0616,76,3.5,2
+El Torogoz,4231 9th St NW,Washington,DC,20011,(202) 722-6966,35,4,2
+Johnny Pistolas,2333 18th St NW,Washington,DC,20009,(202) 817-3255,187,3.5,2
+Alero Restaurant,1724 Connecticut Ave NW,Washington,DC,20009,(202) 234-8100,219,3,2
+La Loma Mexican Restaurant,316 Massachusetts Ave NE,Washington,DC,20002,(202) 548-2550,203,3,2
+Don Juan Restaurant,1660 Lamont St NW,Washington,DC,20010,(202) 667-0010,86,3.5,1
+Burrito Brothers,1825 I St NW,Washington,DC,20018,(202) 887-8266,21,3.5,1
+El Dorado Bread Restaurant,6209 Georgia Ave NW,Washington,DC,20011,(202) 722-1440,7,4.5,2
+El Tamarindo,1785 Florida Ave NW,Washington,DC,20009,(202) 328-3660,314,3.5,2
+Tortilla Coast,1460 P St NW,Washington,DC,20005,(202) 629-3280,331,3,2
+Burrito Brothers,205 Pennsylvania Ave SE,Washington,DC,20003,(202) 543-6835,140,3.5,1
+El Tio,3345 14th St NW,Washington,DC,20010,(202) 450-5620,82,3,2
+El Taco Loco  Eastern Market,7th St SE N Carolina Ave SE,Washington,DC,20003,,4,5,0
+Best Mexican Burritos and Tortas Truck,17th & K St NW,Washington,DC,20006,,43,3.5,1
+California Tortilla,3501 Connecticut Ave NW,Washington,DC,20008,(202) 244-2447,115,3,1
+California Tortilla - DC,728 7th St. NW,Washington,DC,20001,(202) 638-2233,222,3,1
+Don Lobo’s Mexican Grill,2811 M St NW,Washington,DC,20007,(202) 333-0137,92,2.5,2
+Rito Loco Truck,606 Florida Ave,Washington,DC,20001,(202) 836-4270,121,4,1
+Pacifico Cantina,514 8th St SE,Washington,DC,20003,(202) 507-8143,351,2.5,2
+Juanita’s,3521 14th St NW,Washington,DC,20010,(202) 723-0361,9,4.5,2
+California Tortilla,429 L'enfant Pl SW,Washington,DC,20024,(202) 554-7400,14,3.5,1
+Vegaritos,6904 4th St NW,Washington,DC,20012,(202) 882-8988,33,4,1
+Ana’s Restaurant,3217 Georgia Ave NW,Washington,DC,20010,(202) 280-5987,11,3.5,1
+Catrachitos Deli,3555 Georgia Ave NW,Washington,DC,20010,(202) 200-0433,8,4.5,1
+Qdoba Mexican Grill,555 11th St NW,Washington,DC,20004,(202) 347-8477,79,3,1
+Cafe Cantina,3050 K St NW,Washington,DC,20007,(202) 965-3052,16,3,1
+La Cabana Restaurante,3614 14th St NW,Washington,DC,20010,(202) 726-1334,9,4,2
+Gringos & Mariachis,4928 Cordell Ave,Bethesda,MD,20814,(240) 800-4266,392,4,2
+El Chilango,14th St N & N Quinn St,Arlington,VA,22209,(571) 236-0355,448,4.5,1
+Don Jaime Restaurant,3209 Mount Pleasant St NW,Washington,DC,20010,(202) 232-3875,41,3.5,1
+Alero Restaurant,1301 U St NW,Washington,DC,20009,(202) 462-2322,492,2.5,2
+Don Taco,808 King St,Alexandria,VA,22314,(703) 518-8800,254,4,2
+La Villa Restaurant,6115 Georgia Ave NW,Washington,DC,20011,(202) 545-0030,4,4.5,2
+Chipotle Mexican Grill,1837 M St NW,Washington,DC,20036,(202) 466-4104,104,3.5,1
+Los Tios Grill,2615 Mount Vernon Ave,Alexandria,VA,22301,(703) 299-9290,588,4,2
+Los Tios Grill,2615 Mount Vernon Ave,Alexandria,VA,22301,(703) 299-9290,588,4,2
+El Mexireno Restaurant,5494 Saint Barnabas Rd,Oxon Hill,MD,20745,(240) 532-3532,31,4.5,1
+Don Taco,808 King St,Alexandria,VA,22314,(703) 518-8800,254,4,2
+Moe’s Southwest Grill,1275-B 1st St NE,Washington,DC,20002,(202) 888-6800,17,3,1
+El Charrito Caminante,2710 Washington Blvd,Arlington,VA,22204,(703) 351-1177,422,4,1
+Dos Amigos,535 E Braddock Rd,Alexandria,VA,22314,(703) 664-0305,122,4,2
+Chipotle Mexican Grill,1837 M St NW,Washington,DC,20036,(202) 466-4104,104,3.5,1
+Thunder Grill,50 Massachusetts Ave NE,Washington,DC,20002,(202) 898-0051,209,2.5,2
+Mexican Grill & Cantina,1207-1245 H St NE,Washington,DC,20002,,3,3.5,1
+Taco Bamba,2190 Pimmit Dr,Falls Church,VA,22043,(703) 639-0505,1054,4.5,1
+Taqueria La Placita,5020 Edmonston Rd,Hyattsville,MD,20781,(301) 277-4477,129,4,1
+The Corn Factory,None,Washington,DC,20024,,36,4,1
+La Malinche,8622 Colesville Rd,Silver Spring,MD,20910,(301) 562-8622,304,4,2
+Pedro & Vinny’s,2599 Columbia Pike,Arlington,VA,22204,(703) 302-3999,334,4.5,1
+El Rincon Espanol Restaurants,1826 Columbia Rd NW,Washington,DC,20009,(202) 265-4943,44,3,2
+Don Tito,3165 Wilson Blvd,Arlington,VA,22201,(571) 356-9240,342,4,2
+La Mexicana Bakery & Taqueria,2907 Arlington Dr,Alexandria,VA,22306,(703) 717-0807,367,4.5,1
+La Union Restaurant,5517 Wilson Blvd,Arlington,VA,22205,(703) 522-0134,190,4,2
+My Canton Restaurant,1774 Columbia Rd NW,Washington,DC,20009,(202) 797-7555,2,4.5,0
+Pica Taco,1629 Columbia Rd NW,Washington,DC,20009,(202) 518-0076,87,3.5,1
+El Rincon Espanol Restaurants,1826 Columbia Rd NW,Washington,DC,20009,(202) 265-4943,44,3,2
+El Paso Mexican Restaurant,6151 Richmond Hwy,Alexandria,VA,22303,(703) 768-0002,103,4,2
+My Canton Restaurant,1774 Columbia Rd NW,Washington,DC,20009,(202) 797-7555,2,4.5,0
+El Paso Mexican Restaurant,6804 Commerce St,Springfield,VA,22150,(703) 912-6166,396,4,2
+The Corn Factory,None,Washington,DC,20024,,36,4,1
+Guajillo Mexican Cuisine,1727 Wilson Blvd,Arlington,VA,22201,(703) 807-0840,421,3.5,2
+Pa’ Tacos El Papi,Columbia Pike & S Jefferson St,Arlington,VA,22204,(571) 501-1132,37,4.5,1
+La Fondita,4901 Decatur St.,Hyattsville,MD,20788,(301) 699-0785,56,4,1
+Cantina Mexicana,515 S 23rd St,Arlington,VA,22202,(703) 979-7033,275,3.5,2
+La Libertad Restaurant,4622 14th St NW,Washington,DC,20011,(202) 291-5350,4,4.5,0
+Jarochita #2,85 N Glebe Rd,Arlington,VA,22203,(703) 528-2789,43,4,1
+Tazza Kitchen Arlington Ridge,2931 S Glebe Rd,Arlington,VA,22206,(703) 549-8299,212,4,2
+Fuego Cocina y Tequileria,2800 Clarendon Blvd,Arlington,VA,22201,(571) 970-2180,440,3.5,2
+DC Taco Truck,1101-1199 H St NW,Washington,DC,20001,,84,3.5,1
+Tacos 5 De Mayo,7201 Annapolis Rd,Hyattsville,MD,20784,(301) 306-2074,70,4.5,1
+La Libertad Restaurant,4622 14th St NW,Washington,DC,20011,(202) 291-5350,4,4.5,0
+H Street Country Club,1335 H St NE,Washington,DC,20002,(202) 399-4722,443,3,2
+El Pulgarcito Restaurant,3838 Mount Vernon Ave,Alexandria,VA,22305,(703) 549-4549,10,4,1
+Los Cuates,1116 King St,Alexandria,VA,22314,(703) 548-2918,187,3.5,2
+Moe’s Southwest Grill,470 L'enfant Plz E,Washington,DC,20024,(202) 484-2229,26,2.5,1
+Los Cuates,1116 King St,Alexandria,VA,22314,(703) 548-2918,187,3.5,2
+El Pulgarcito Restaurant,3838 Mount Vernon Ave,Alexandria,VA,22305,(703) 549-4549,10,4,1
+Silvestre Chicken,4812 Silver Hill Rd,Suitland-Silver Hill,MD,20746,(301) 568-0192,79,3.5,1
+La Morenita,3539 Georgia Ave NW,Washington,DC,20010,(202) 723-0759,3,3,2
+Tacos El Costalilla,7862 Richmond Hwy,Alexandria,VA,22306,(703) 704-9088,112,4.5,1
+El Verano Taqueria,1500 S Capitol St SE,Washington,DC,20003,(202) 640-7000,18,2,1
+Taqueria el Poblano,2400 Mount Vernon Ave,Alexandria,VA,22301,(703) 548-8226,340,3.5,2
+Cantina Mexicana,922 S Walter Reed Dr,Arlington,VA,22204,(571) 970-6571,114,3.5,2
+Cafe Cantina,1750 H St NW,Washington,DC,20006,,6,3.5,1
+Guapo’s Restaurant,8130 Wisconsin Ave,Bethesda,MD,20814,(301) 656-0888,203,3.5,2
+Cafe Cantina,1750 H St NW,Washington,DC,20006,,6,3.5,1
+Rosa Mexicano,153 Waterfront St,National Harbor,MD,20745,(301) 567-1005,805,3.5,2
+Moe’s Southwest Grill,1331 Pa Ave,Washington,DC,20004,(202) 393-0699,26,2,1
+El Pollo Ranchero,6324 Richmond Hwy,Alexandria,VA,22306,(703) 721-2000,121,4,1
+Uncle Julio’s,4301 Fairfax Dr,Arlington,VA,22203,(703) 528-3131,439,3.5,2
+Chipotle Mexican Grill,2338 Wisconsin Ave NW,Washington,DC,20007,(202) 706-7508,23,3,1
+Chipotle Mexican Grill,2000 Pennsylvania Ave,Washington,DC,20006,(202) 706-6761,29,2.5,1
+ABC Canteen,9528 Lee Hwy,Fairfax,VA,22031,(703) 865-0377,267,4.5,1
+Mexicano Square,1400 Constitution Ave,Washington,DC,20560,(703) 401-0805,5,4.5,1
+Taqueria El Mexicano,7811 Riggs Rd,Hyattsville,MD,20783,(301) 434-0104,34,4,2
+Chipotle Mexican Grill,4301 Wisconsin Ave NW,Washington,DC,20016,(202) 237-0602,68,3,1
+Chipotle Mexican Grill,3420 Connecticut Ave NW,Washington,DC,20008,(202) 464-4354,22,4,2
+Sierras Grill & Taqueria,11619 Beltsville Dr,Beltsville,MD,20705,(301) 572-7830,147,4,2
+Chipotle Mexican Grill,40 Massachusetts Ave NE,Washington,DC,20002,(202) 706-5935,69,3,1
+Chipotle Mexican Grill,413 8th St SE,Washington,DC,20003,(202) 464-3390,82,2,1
+El Aguila Restaurant,7926 Georgia Ave,Silver Spring,MD,20910,(240) 670-3588,33,3.5,2
+El Golfo Restaurant,8739 Flower Ave,Silver Spring,MD,20901,(301) 608-2121,75,4,2
+El Taco Loco,2515 University W Blvd,Silver Spring,MD,20902,(301) 933-8203,75,4,1
+Cafe Rio Mexican Grill,6108A Arlington Blvd,Falls Church,VA,22044,(703) 962-9100,213,3.5,1
+Chipotle Mexican Grill,601 F St NW,Washington,DC,20004,(202) 347-4701,101,2.5,1
+Chipotle Mexican Grill,2600 Connecticut Ave NW,Washington,DC,20008,(202) 299-9111,81,3,1
+Nellys Cafe,9917 Rhode Island Ave,College Park,MD,20740,(301) 220-1433,23,4.5,1
+District Taco,1500 Wilson Blvd,Arlington,VA,22209,(571) 290-6854,82,3.5,1
+Taqueria Tres Reyes,5403 Kenilworth Ave,Riverdale,MD,20737,(301) 779-6060,61,3.5,1
+Los Toltecos,4111 Duke St,Alexandria,VA,22304,(703) 370-4111,250,3,2
+Chevys Fresh Mex,1201 S Hayes St,Arlington,VA,22202,(703) 413-8700,228,3,2
+Fish Taco,10305 Old Georgetown Rd,Bethesda,MD,20814,(301) 564-6000,69,4,2
+Chipotle Mexican Grill,2300 Washington Pl NE,Washington,DC,20018,(202) 269-0394,80,1.5,1
+Taco Bell,40 Massachusetts Ave NE,Washington,DC,20002,(202) 289-7002,5,4.5,1
+Chipotle Mexican Grill,2300 Washington Pl NE,Washington,DC,20018,(202) 269-0394,80,1.5,1
+District Taco,701 S Washington St,Alexandria,VA,22314,(571) 386-1400,213,3.5,1
+Fish Taco,10305 Old Georgetown Rd,Bethesda,MD,20814,(301) 564-6000,69,4,2
+Uncle Julio’s Bethesda Row,4870 Bethesda Ave,Bethesda,MD,20814,(301) 656-2981,386,3,2
+Marleny’s,3201 Mt Pleasant St,Washington,DC,20010,(202) 387-2159,5,3,1
+El Tapatio Mexican Restaurant,4309 Kenilworth Ave,Bladensburg,MD,20783,(301) 403-8882,21,4,1
+Tacos El Torito,8413 Lee Hwy,Fairfax,VA,22031,(703) 505-0936,21,4.5,1
+Chipotle Mexican Grill,625 Monroe St NE,Washington,DC,20017,(202) 636-4213,20,1.5,1
+Taqueria El Rey,6017 66th Ave,Riverdale,MD,20737,(301) 459-2230,15,4,1
+Pepita Cantina,4000 Wilson Blvd,Arlington,VA,22203,(703) 312-0200,147,3,2
+Taqueria El Poblano,2503 N Harrison St,Arlington,VA,22207,(703) 237-8250,142,3,2
+Chipotle Mexican Grill,1629 Connecticut Ave NW,Washington,DC,20009,(202) 387-8261,97,3.5,1
+El Paisa Grocery,3414 Mt Vernon Ave,Alexandria,VA,22305,(703) 299-0214,24,4.5,1
+Chipotle Mexican Grill,2301 Georgia Ave NW,Washington,DC,20059,(202) 319-1391,4,2,1
+Pepita Cantina,4000 Wilson Blvd,Arlington,VA,22203,(703) 312-0200,147,3,2
+La Sandia,7852L Tysons Corner Center,McLean,VA,22102,(703) 893-2222,513,3.5,2
+Pancho Villa Mexican Cuisine,1850 N Fort Myer Dr,Arlington,VA,22209,(703) 243-5925,33,3,2
+Qdoba Mexican Grill,1850 M St NW,Washington,DC,20036,(202) 331-3045,4,3,2
+Pollo-Mex,13436 New Hampshire Ave,Silver Spring,MD,20904,(301) 384-3784,189,4,2
+Corinto Restaurant,7611 Marlboro Pike,District Heights,MD,20747,(240) 532-5446,10,3.5,2
+Abi Restaurant,5838 N Kings Hwy,Alexandria,VA,22303,(703) 317-0548,48,4,1
+Chuy’s,6793 Springfield Mall,Springfield,VA,22150,(703) 971-7072,306,3.5,2
+Mexicali Blues,2933 Wilson Blvd,Arlington,VA,22201,(703) 812-9352,351,2.5,2
+Qdoba Mexican Grill,5872 Crossroads Cir,Falls Church,VA,22041,(703) 933-8712,75,4,1
+Rosita’s Restaurant,6510 Richmond Hwy,Alexandria,VA,22306,(703) 660-6202,32,4,1
+Fish Taco,7945 MacArthur Blvd,Cabin John,MD,20818,(301) 229-0900,143,3.5,2
+Chipotle Mexican Grill,1010 Vermont Ave NW,Washington,DC,20005,(202) 637-3205,9,2,1
+Pollo Tipico,9452 Lanham Severn Rd,Lanham,MD,20706,(301) 577-1527,21,4,1
+Los Chorros Restaurant,2420 Blueridge Ave,Silver Spring,MD,20902,(301) 933-1066,93,4,2
+Nacho Fast,1300 Pennsylvania Ave NW,Washington,DC,20004,(202) 842-2800,2,2.5,0
+Krazi Kebob,4427 Lehigh Rd,College Park,MD,20740,(301) 864-5150,163,4,1
+Taco Rico,4811 Edmonston Rd,Hyattsville,MD,20781,(301) 779-8001,5,4.5,1
+Fish Taco,7015 Wisconsin Ave,Chevy Chase,MD,20815,(301) 652-0010,21,4,2
+Subway,601-603 48th St Northeast,Washington,DC,20019,,1,4,1
+San Antonio Bar & Grill,1664 Crystal Square Arc,Arlington,VA,22202,(703) 415-0126,89,3,2
+Los Laureles,6575 Ager Rd,Hyattsville,MD,20782,(301) 422-0896,4,4.5,1
+Chipotle Mexican Grill,3113 14th St NW,Washington,DC,20010,(202) 939-2801,71,3,1
+Combinacion Restaurant,1772 Columbia Rd NW,Washington,DC,20009,(202) 797-9765,4,3,0
+Pollo Fiesta,6408 Kenilworth Ave,Riverdale,MD,20737,(301) 277-0298,34,3.5,2
+Abi Azteca Grill & Bar,3005 Columbia Pike,Arlington,VA,22204,(703) 979-3579,107,3.5,2
+California Tortilla,4514 Chappie James Blvd,Washington,DC,20032,(202) 563-0123,6,2,1
+El Paso Mexican Restaurant,8746 Cooper Rd,Alexandria,VA,22309,(703) 619-5123,116,4,2
+La Sirenita Restaurant,4911 Edmonston Rd,Hyattsville,MD,20781,(301) 864-0188,57,3.5,1
+Taqueria 3 Reyes,8500 Annapolis Rd,New Carrollton,MD,20784,(301) 918-4848,31,3,2
+Al Carbon,200 Park Rd,Rockville,MD,20847,(301) 738-0003,134,4,1
+My Las Delicias Deli,10620 Baltimore Ave,Beltsville,MD,20705,(301) 595-3242,10,5,1
+Viva Tequila II,6186 Arlington Blvd,Falls Church,VA,22044,(703) 533-1346,16,3.5,1
+Alamo Mexican Restaurant,5508 Kenilworth Ave,Riverdale,MD,20737,(301) 927-8787,57,3.5,2
+Pica Taco,6480 Landsdowne Ctr,Alexandria,VA,22315,(703) 541-5555,91,4,1
+El Ranchero Bar & Grill,4617 Wilson Blvd,Arlington,VA,22203,(703) 524-1010,198,2.5,2
+District Taco,2676-O Avenir Pl,Vienna,VA,22031,(571) 325-0860,119,3.5,1
+Chipotle Mexican Grill,50 Massachusetts Ave,Washington,DC,20002,(202) 682-1861,2,1.5,0
+Ricos Tacos Moya Restaurant 3,8685 Richmond Hwy,Alexandria,VA,22309,(703) 780-2880,85,4,2
+La Hacienda,6285 Oxon Hill Rd,Oxon Hill,MD,20745,,6,2.5,1
+La Cocina De Mi Tierra,4706 Suitland Rd,Suitland,MD,20746,(301) 669-9708,15,2.5,2
+Pupuseria Diana,100 N Henderson Ave,Arlington,VA,22203,(240) 423-0717,12,4.5,1
+Cafeteria Panade Ria,6209 Georgia Ave NW,Washington,DC,20011,,2,4,0
+Chipotle Mexican Grill,1045 5th St NW,Washington,DC,20001,(202) 697-4293,46,2.5,1
+Delicias Carry Out,4708 Highland Ave,Bethesda,MD,20814,(301) 654-7887,23,3.5,1
+Mango’s Grill,14605 Baltimore Ave,Laurel,MD,20707,(301) 776-8834,124,4,2
+International Cafe,3911 14th St NW,Washington,DC,20011,(202) 722-1361,0,0,0
+Las Carnitas,8250 Richmond Hwy,Alexandria,VA,22309,(703) 619-7932,9,4.5,2
+El Sombrerito Tex Mex,11510 Baltimore Ave,Beltsville,MD,20705,(301) 931-2223,17,4,2
+Loredo’s Mexican Restaurant,9227 Oxon Hill Rd,Fort Washington,MD,20744,(301) 686-0999,8,3.5,2
+La Molienda Restaurant,3568 14th St NW,Washington,DC,20010,(202) 291-0855,3,2.5,1
+Tia Queta,4839 Del Ray Ave,Bethesda,MD,20814,(301) 654-4443,99,3,2
+El Mariachi,765 Rockville Pike,Rockville,MD,20852,(301) 738-7177,119,4,2
+Tequila Grande,444 Maple Ave W,Vienna,VA,22180,(703) 255-5933,194,3.5,2
+Dulcinea Bar & Grill Gaithersburg,9103 Gaither Rd,Gaithersburg,MD,20877,(240) 408-5391,70,4.5,2
+Taqueria Los Primos,9920 Washington Boulevard North,Laurel,MD,20723,(301) 317-5087,61,4.5,1
+San Antonio Bar & Grill,200 Swamp Fox Rd,Alexandria,VA,22314,(703) 329-6400,148,3,2
+Taco Bell,2205 New York Ave NE,Washington,DC,20002,(202) 635-2355,12,1,1
+Taco Ssam,6017 Leesburg Pike,Bailey's Crossroads,VA,22041,(703) 347-6969,38,4,1
+15 Squares American Bistro,999 9th St NW,Washington,DC,20001,(202) 682-3440,0,0,0
+Chirilagua Pollo and Steak,4112 Mt Vernon Ave,Alexandria,VA,22305,(703) 837-9100,25,3.5,1
+Delicias La Chosita,4800 Annapolis  Rd,Bladensburg,MD,20710,(301) 277-0055,13,2.5,1
+Taco Bar,10003 Fields Rd,Gaithersburg,MD,20878,(301) 987-0376,751,4.5,1
+California Tortilla,4871 Cordell Ave,Bethesda,MD,20814,(301) 654-8226,112,3.5,1
+Dulcinea Bar & Grill Gaithersburg,9103 Gaither Rd,Gaithersburg,MD,20877,(240) 408-5391,70,4.5,2
+Delicias La Chosita,4800 Annapolis  Rd,Bladensburg,MD,20710,(301) 277-0055,13,2.5,1
+Chirilagua Pollo and Steak,4112 Mt Vernon Ave,Alexandria,VA,22305,(703) 837-9100,25,3.5,1
+Taco Bar,10003 Fields Rd,Gaithersburg,MD,20878,(301) 987-0376,751,4.5,1
+Coyote Grille,10266 Main St,Fairfax,VA,22030,(703) 591-0006,208,3.5,2
+Las Margaritas,4308 Rhode Island Ave,Brentwood,MD,20722,(301) 927-5200,10,3,2
+Mexicano Food Truck,None,Washington,DC,20002,,1,2,0
+Anita’s New Mexico Style Mexican Food,521 E Maple Ave,Vienna,VA,22180,(703) 255-1001,182,3,2
+California Tortilla,2057 Wilson Blvd,Arlington,VA,22201,(703) 243-4151,108,3,1
+Best Burritos,Farragut Square,Washington,DC,20006,,11,1.5,1
+Golden Paradise,3903 14th St. NW,Washington,DC,20011,(202) 621-6036,2,1,2
+Elvira’s Kitchen,14031 Georgia Ave,Silver Spring,MD,20906,,21,4.5,1
+Casa Tequila Bar & Grill,9020 Lorton Station Blvd,Lorton,VA,22079,(703) 372-1057,38,3.5,2
+Taqueria Los Compadres,2427 Crain Hwy,Waldorf,MD,20601,(240) 222-3546,40,4.5,1
+Chevys Fresh Mex,7511 Greenbelt Rd,Greenbelt,MD,20770,(301) 220-0078,176,3,2
+Las Cazuelas Polla a la Brasa Y Taqueria,6266 Kenilworth Ave,Riverdale,MD,20737,(240) 582-0076,6,4,2
+El Pulgarcito De America,5313 Georgia Ave NW,Washington,DC,20011,(202) 882-8822,1,1,0
+La Rumba Restaurant,2311 Price Ave,Silver Spring,MD,20902,(301) 933-4900,7,3.5,0
+Pio Pio Peruvian Cuisine,762 A Walker Rd,Great Falls,VA,22066,(703) 865-7700,40,4,2
+El Andariego,5 Olney Sandy Spring Rd,Ashton,MD,20861,(301) 260-8199,56,4,2
+Bartaco Reston,12021 Town Sq St,Reston,VA,20190,(703) 787-8226,693,4,2
+Tortacos,9629 Lost Knife Rd,Gaithersburg,MD,20877,(240) 632-9423,388,4.5,1
+Taco Bell,1944 Bladensburg Rd NE,Washington,DC,20002,(202) 526-8563,28,1.5,1
+Caribbean Gardens,6331 New Hampshire Ave,Takoma Park,MD,20912,(301) 559-2445,9,4,1
+District Taco,4600 Wisconsin Ave NW,Washington,DC,20016,,0,0,0
+Erich and Lily Vending Cart,1200 First St NE,Washington,DC,20002,,1,3,0
+El Pueblo,9550 Old Keene Mill Rd,Burke,VA,22015,(703) 455-4401,70,3.5,2
+Chapala Restaurant,15530 Old Columbia Pike,Burtonsville,MD,20866,(301) 421-0924,122,3,2
+El Gran Palenque,5863 Columbia Pike,Falls Church,VA,22041,(703) 998-8220,17,2.5,2
+Don Ramon,13816 Old Columbia Pike,Silver Spring,MD,20904,(301) 245-3212,12,4,2
+Bebop Korean-Mexican Grill,10730 Fairfax Blvd,Fairfax,VA,22030,(703) 424-5514,111,4,1
+District Taco Cart,5723 Lee Hwy,Arlington,VA,22207,(703) 237-1204,72,4,1
+Chipotle Mexican Grill,1508 14th St NW,Washington,DC,20005,(202) 627-1951,55,2,1
+Taco Lucas,8142 Richmond Hwy,Alexandria,VA,22309,(703) 799-6756,35,3.5,1
+Daisy’s Grill Restaurant,8503 Oxon Hill Rd Fort,Fort Washington,MD,20744,(301) 686-1616,10,3.5,2
+California Tortilla,1300 Pennsylvania Ave. NW,Washington,DC,20004,(202) 682-9797,10,2,1
+Sienas,12303 Twinbrook Pkwy,Rockville,MD,20852,(301) 770-7474,44,4,2
+Chevys Fresh Mex,3052 Gatehouse Plaza,Falls Church,VA,22042,(703) 573-4280,125,2.5,2
+Chipotle Mexican Grill,1508 14th St NW,Washington,DC,20005,(202) 627-1951,55,2,1
+El Gran Palenque,5863 Columbia Pike,Falls Church,VA,22041,(703) 998-8220,17,2.5,2
+Sienas,12303 Twinbrook Pkwy,Rockville,MD,20852,(301) 770-7474,44,4,2
+Moe’s Southwest Grill,5855 Leesburg Pike,Falls Church,VA,22041,(703) 578-6637,87,3,1
+Gringada Mexican Restaurant,12300 Baltimore Ave,Beltsville,MD,20705,(301) 210-3010,46,3,1
+El Tipico Restaurant,664 S Pickett St,Alexandria,VA,22304,(703) 370-3581,25,2.5,2
+Chevys Fresh Mex,3052 Gatehouse Plaza,Falls Church,VA,22042,(703) 573-4280,125,2.5,2
+Baja Fresh,2815 Clarendon Blvd,Arlington,VA,22201,(703) 528-7010,57,3,1
+Taco Bell,Washington Blvd. and Jefferson Davis Highway,Washington,DC,20310,(703) 271-8021,0,0,0
+Burro Grill,3129 Lee Hwy.,Arlington,VA,22201,,17,3,1
+Taco Grande,8733 Cooper Rd,Alexandria,VA,22309,(703) 780-7400,21,3.5,1
+Don Lobos,1230 Connecticut Ave NW,Washington,DC,20036,(703) 673-5600,0,0,0
+Chipotle Mexican Grill,4471 Willard Ave,Chevy Chase,MD,20815,(301) 654-6661,44,3,1
+Mi Casita,1334 Defense Hwy,Gambrills,MD,21054,(410) 451-0025,148,4,2
+Taco Bell,220 Riggs Rd NE,Washington,DC,20011,(202) 635-0088,3,1.5,0
+Tampico Grill,42 Washington Blvd,Laurel,MD,20707,(301) 490-5200,117,4,2
+Baja Fresh,2815 Clarendon Blvd,Arlington,VA,22201,(703) 528-7010,57,3,1
+America’s Taco Shop,"8901 Wisconsin Ave, Bldg 82",Bethesda,MD,20889,(240) 396-6478,6,3,2
+La Sala,201 Upshur St NW,Washington,DC,20011,,0,0,0
+Chipotle Mexican Grill,7600 Old Georgetown Rd,Bethesda,MD,20814,(301) 907-9077,66,4,1
+Qdoba Mexican Grill,6450 America Blvd,Hyattsville,MD,20782,(301) 985-1260,37,3,1
+El Cento Df,Ronald Reagan Washington,Arlington,VA,22202,(703) 471-8991,6,3.5,2
+El Amate Restaurant,11452 Cherry Hill Rd,Beltsville,MD,20705,(301) 595-7511,9,3.5,2
+Baja Fresh Mexican Grill,7003 Manchester Blvd,Alexandria,VA,22310,(703) 924-1313,36,3.5,1
+Sofia’s Pupuseria,3610 Columbia Pike,Arlington,VA,22204,(703) 746-0355,9,4,2
+El Ranchero Y Sus Mariachis,11111 Baltimore Ave,Beltsville,MD,20705,(301) 595-8980,4,3.5,2
+Tippy’s Taco House,8632 Lee Hwy,Fairfax,VA,22031,(703) 560-0511,101,3,1
+Chipotle Mexican Grill,158 National Plz,Oxon Hill,MD,20745,(301) 749-2016,11,2.5,1
+Austin Grill,8430-A Old Keene Mill Rd,Springfield,VA,22152,(703) 644-3111,163,3,2
+Restaurante El Salvador,4805 Columbia Pike,Arlington,VA,22204,(703) 521-3225,4,3.5,2
+Sarita’s Restaurant,2794 Graham Rd,Falls Church,VA,22042,(703) 533-9448,20,2.5,2
+Alicias Mexican Grill,16533 S Frederick Ave,Gaithersburg,MD,20877,(301) 519-9278,75,3.5,2
+Sabor Latino Restaurant,2338 University Blvd E,Hyattsville,MD,20783,(301) 422-1294,5,3.5,2
+Moe’s Southwest Grill,7869 Heneska Loop,Alexandria,VA,22315,(703) 348-9681,13,4,1
+Guapo’s Restaurant,9811 Washington Blvd,Gaithersburg,MD,20878,(301) 977-5655,310,3.5,2
+Lesly Restaurant Bar & Grill,306 Hillwood Ave,Falls Church,VA,22046,(703) 241-3795,5,2.5,2
+Taco Baja,7716 Lee Hwy,Falls Church,VA,22042,(703) 205-0010,15,2.5,1
+El Taco Azteca,5014 Edmonston Rd,Hyattsville,MD,20781,(301) 864-4770,3,3.5,0
+El Pulgarcito Restaurant,11333 Elkin St,Silver Spring,MD,20902,(301) 942-5395,12,3.5,2
+Mi Rancho,1488 Rockville Pike,Rockville,MD,20852,(240) 221-2636,139,2.5,2
+El Taco Azteca,5014 Edmonston Rd,Hyattsville,MD,20781,(301) 864-4770,3,3.5,0
+El Quetzal Restaurant,1401 University Blvd E,Hyattsville,MD,20783,(301) 431-1822,1,5,0
+El Pulgarcito Restaurant,11333 Elkin St,Silver Spring,MD,20902,(301) 942-5395,12,3.5,2
+Mi Rancho,1488 Rockville Pike,Rockville,MD,20852,(240) 221-2636,139,2.5,2
+Lesly Restaurant Bar & Grill,306 Hillwood Ave,Falls Church,VA,22046,(703) 241-3795,5,2.5,2
+El Sol Restaurant,13881 Outlet Dr,Silver Spring,MD,20904,(301) 890-1808,14,3.5,2
+Los Cobanos Restaurant,11210 Grandview Ave,Silver Spring,MD,20902,(301) 933-2026,7,3.5,2
+Cafe Rio,3140 Olney Sandy Spring Rd,Olney,MD,20832,(301) 232-5500,146,3.5,1
+La Tolteca,5614 Ox Rd,Fairfax,VA,22039,(703) 425-8844,159,3,2
+La Fonda Cahequeta Cafe,6838 New Hampshire Ave,Silver Spring,MD,20912,(301) 891-6800,1,5,2
+Guapo’s Restaurant,13050 Fairlakes Shopping Ctr,Fairfax,VA,22033,(703) 818-0022,301,4,2
+Uncle Julio’s,1827 Library St,Reston,VA,20190,(703) 904-0703,416,3.5,2
+Sol Azteca,18129 Town Ctr Dr,Olney,MD,20832,(301) 260-1650,76,3.5,2
+Uncle Julio’s Gaithersburg,231 Rio Blvd,Gaithersburg,MD,20878,(240) 632-2150,310,3.5,2
+Baja Bistro,1961 Chain Bridge Rd Ste 3C,Tysons Corner,VA,22102,(703) 848-0380,19,3,2
+Anita’s New Mexico Style Mexican Food  Inc,10880 Fairfax Blvd,Fairfax,VA,22030,(703) 385-2965,122,3,1
+Jazmin Cuisine,7601-F Airpark Rd,Gaithersburg,MD,20879,(301) 208-1444,89,4.5,1
+Qdoba Mexican Grill,10338 Main St,Fairfax,VA,22030,(703) 273-8202,45,3.5,1
+Cafe Rio Mexican Grill,6003 Burke Centre Pkwy,Burke,VA,22015,(571) 522-2200,134,3,1
+Chipotle Mexican Grill,6707 Old Dominion Dr,Mclean,VA,22101,(571) 533-1815,59,2,1
+La Hacienda Restaurant,7037 Brookfield Plaza,Springfield,VA,22150,(703) 866-0205,12,2.5,1
+Chipotle Mexican Grill,3556B Jefferson St,Falls Church,VA,22041,(703) 379-1727,8,2.5,1
+Moe’s Southwest Grill,7698 Richmond Hwy,Alexandria,VA,22306,(703) 660-1000,44,3,1
+Uncle Julio’s Fairfax Corner,4251 Fairfax Corner Ave,Fairfax,VA,22037,(703) 266-7760,362,3,2
+Mexican,1901 14th St NW,Washington,DC,20009,,0,0,0
+Honduran Food Truck,5695 Telegraph Rd,Alexandria,VA,22303,,6,4,1
+Chipotle Mexican Grill,9141 Alaking Ct,Capitol Heights,MD,20743,(240) 765-6553,50,2,1
+Chipotle Mexican Grill,1735 N Lynn St,Rosslyn,VA,22209,(703) 294-6669,92,3.5,1
+Qdoba Mexican Grill,128 Rollins Ave,Rockville,MD,20852,(301) 358-2271,72,3.5,1
+California Tortilla,3941 Evergreen Pkwy,Bowie,MD,20716,(301) 464-6405,46,3.5,1
+Chipotle Mexican Grill,601 King St,Alexandria,VA,22314,(703) 548-5169,73,3,1
+Chipotle Mexican Grill,7332 Baltimore Ave,College Park,MD,20740,(240) 582-0015,52,3,1
+Taqueria el Rorro,1060 Highway 3,Gambrills,MD,21054,,12,4.5,1
+El Pollo Chingon,243 N Glebe Rd,Arlington,VA,22203,(703) 746-9313,3,3,0
+Chipotle Mexican Grill,6707 Old Dominion Dr,Mclean,VA,22101,(571) 533-1815,59,2,1
+California Tortilla,301 Swamp Fox Rd,Alexandria,VA,22314,(703) 329-3333,61,2.5,1
+Qdoba Mexican Grill,8515 Colesville Rd,Silver Spring,MD,20910,(301) 565-8192,35,3,1
+La Tolteca,2708 Crain Hwy,Waldorf,MD,20601,(301) 705-5353,46,3.5,1
+Chuy’s,21365 Epicerie Plz,Sterling,VA,20164,(571) 313-1912,134,3.5,2
+Lesly’s Grill,6225 Baltimore Ave,Riverdale Park,MD,20737,(301) 209-7069,12,2,0
+El Pollo Chingon,243 N Glebe Rd,Arlington,VA,22203,(703) 746-9313,3,3,0
+Taco Bell,8428 Baltimore Ave.,College Park,MD,20740,(301) 982-7198,13,4,1
+Chipotle Mexican Grill,4520 Lee Hwy,Arlington,VA,22207,(571) 858-4160,65,2,1
+Lesly’s Grill,6225 Baltimore Ave,Riverdale Park,MD,20737,(301) 209-7069,12,2,0
+Baja Fresh,3231 Duke St,Alexandria,VA,22314,(703) 823-2888,42,3,1
+Chipotle Mexican Grill,7332 Baltimore Ave,College Park,MD,20740,(240) 582-0015,52,3,1
+Chipotle Mexican Grill,8490 Annapolis Rd,New Carrollton,MD,20784,(301) 306-5132,3,4,0
+Las Americas Restaurant,3103 Graham Rd,Falls Church,VA,22042,(703) 560-4056,8,2.5,2
+California Tortilla,2930 Chain Bridge Rd,Oakton,VA,22124,(703) 255-5096,29,3,1
+El Dorado Tacos Cafe,12220 Veirs Mill Rd,Silver Spring,MD,20906,(301) 933-5542,1,4,0
+On the Border,16403 Heritage Blvd,Bowie,MD,20716,(301) 860-1150,80,3,2
+California Tortilla,2930 Chain Bridge Rd,Oakton,VA,22124,(703) 255-5096,29,3,1
+Mexico Restaurant,10598 Middleport Ln,White Plains,MD,20695,(301) 374-2567,65,3.5,2
+El Rey Taqueria & Rostiseria,5401 Carters Ln,Riverdale,MD,20737,(301) 454-8145,4,3.5,1
+El Dorado Tacos Cafe,12220 Veirs Mill Rd,Silver Spring,MD,20906,(301) 933-5542,1,4,0
+Los Tios Grill,241 S Van Dorn St,Alexandria,VA,22304,(703) 746-9054,13,4,2
+On The Border,11947U Fair Oaks Mall,Fairfax,VA,22033,(703) 988-3577,75,3,2
+Baja Fresh,3231 Duke St,Alexandria,VA,22314,(703) 823-2888,42,3,1
+Viva Tequila,6244 Little River Tpke,Alexandria,VA,22312,(703) 642-0031,13,1.5,2
+La Cocina de Mi Tierra,6285 Oxon Hill Rd,Oxon Hill,MD,20745,(301) 567-0812,2,2,2
+Lilian’s Restaurant,3901 Mount Vernon Ave,Alexandria,VA,22305,(703) 837-8494,8,3,2
+Queretaro,1406 S Chapel Way,Gambrills,MD,21054,(410) 721-1392,25,3.5,2
+Toucan Taco,315 Gorman Ave,Laurel,MD,20707,(301) 498-9833,60,3,1
+La Cocina de Mi Tierra,6285 Oxon Hill Rd,Oxon Hill,MD,20745,(301) 567-0812,2,2,2
+Las Delicias Restaurant Buffet,7976 New Hampshire Ave NE,Hyattsville,MD,20783,(301) 434-4789,6,3,2
+Fonda Azteca,14425 Jefferson Davis Hwy,Woodbridge,VA,22191,(703) 491-3902,30,4,1
+On The Border Mexican Grill & Cantina,11880 Spectrum Ctr,Reston,VA,20190,(571) 485-7929,138,3,2
+Rico Pollo & Steak,4926 Annapolis Rd,Bladensburg,MD,20710,(240) 764-5975,5,3,1
+El Paso,3031 Golansky Blvd,Woodbridge,VA,22192,(703) 878-2856,158,4,1
+Chipotle Mexican Grill,3556B Jefferson St,Falls Church,VA,22041,(703) 379-1727,8,2.5,1
+El Paso,3031 Golansky Blvd,Woodbridge,VA,22192,(703) 878-2856,158,4,1
+Anita’s New Mexico Style Mexican Food,9278 Old Keene Mill Rd,Burke,VA,22015,(703) 455-3466,89,2.5,2
+Taco Bell,6250 Central Ave,Capitol Heights,MD,20743,(301) 336-8548,5,2,1
+Rinconcito Mexicano,1103C Annapolis Rd,Odenton,MD,21113,(410) 305-0882,101,3.5,2
+Chipotle Mexican Grill,4300 Wilson Blvd,Arlington,VA,22203,(703) 243-9488,115,3,1
+Taqueria Tres Reyes,1835 University Blvd,Hyattsville,MD,20783,(301) 431-6666,6,2,2
+Cafe Rio Mexican Grill,3082 Festival Way,Waldorf,MD,20601,(301) 861-5700,56,3,2
+Cafe Rio,6003 Burke Centre Pkwy,Burke,VA,22015,(571) 522-2200,21,3,2
+Pueblo Nuevo Restaurant,6013 Leesburg Pike,Falls Church,VA,22041,(703) 820-2700,2,3.5,1
+California Tortilla,10721-A Columbia Pike,Silver Spring,MD,20901,(301) 593-3955,37,3,1
+Mi Mariachi,2715 University Blvd W,Wheaton,MD,20902,(301) 929-8577,7,2,2
+Cancun Grill Restaurant,11220 Georgia Ave,Silver Spring,MD,20902,(301) 933-0006,1,4,2
+R&R Taqueria,7894 Washington Blvd,Elkridge,MD,21075,(410) 799-0001,464,4,1
+La Roca,14455 Jefferson Davis Hwy,Woodbridge,VA,22191,(703) 490-1131,58,4,1
+Chipotle Mexican Grill,5501 Baltimore Ave,Hyattsville,MD,20781,(301) 927-2484,29,3,1
+Tipicos Los Amigos,46950 Community Plz,Sterling,VA,20164,(571) 434-0060,59,3.5,2
+AG Express,931 Ellsworth Dr,Silver Spring,MD,20910,(301) 588-9400,1,4,0
+Rito Loco,1801 N Lynn St,Arlington,VA,22209,,1,2,0
+Los Antojitos,9123 Riggs Rd,Hyattsville,MD,20783,(301) 434-0100,8,2.5,1
+Senor Tequila’s - Cascades,46300 Cranston Street,Sterling,VA,20165,(703) 474-8624,60,3.5,2
+Puente De Oro,9534 Fairfax Blvd,Fairfax,VA,22031,(703) 246-9122,1,5,0
+Baja Fresh Mexican Grill,1116 W Broad St,Falls Church,VA,22046,(703) 237-0020,24,3,1
+Taco Bell,6420 Coventry Way,Clinton,MD,20735,(301) 856-9268,6,3,1
+Ricos Tacos Moya,13948 Jefferson Davis Hwy,Woodbridge,VA,22191,(703) 499-8602,57,3.5,2
+El Centro,Terminal B  2605 S Clark St,Arlington,VA,22202,(703) 417-8991,1,5,2
+Acajutla Mexican Restaurant,18554 Woodfield Rd,Gaithersburg,MD,20879,(301) 670-1674,29,4,2
+Cafe Rio Mexican Grill,13075 Lee Jackson Memorial Hwy,Fairfax,VA,22033,,134,3,1
+Chipotle Mexican Grill,1100 S Hayes St,Arlington,VA,22202,(571) 858-4005,70,1.5,1
+California Tortilla,18101 Village Ctr Dr,Olney,MD,20832,(301) 570-2522,52,3.5,1
+Chipotle Mexican Grill,12060 Cherry Hill Rd,Silver Spring,MD,20904,(301) 586-0430,50,2.5,1
+La Mexicana,16143 Shady Grove Rd,Gaithersburg,MD,20877,(301) 869-1500,49,3,1
+Doug the Food Dude,None,Vienna,VA,22182,(703) 581-2919,48,3.5,1
+El Puente De Oro,1401 University Blvd E,Hyattsville,MD,20783,(301) 445-0878,4,3,2
+El Sabor De Tu Pueblo Restaurant,1621 S Walter Reed Dr,Arlington,VA,22204,(703) 979-0670,3,2.5,0
+California Tortilla,7727 Tuckerman Ln,Potomac,MD,20854,(301) 765-3600,42,3.5,1
+Poncho N Pepe’s Mexican Grill & Tequila Bar,1651 Rt 3 N,Crofton,MD,21114,(443) 292-4709,181,2.5,2
+Sabor Carryout,8484 Piney Branch Rd,Silver Spring,MD,20901,(301) 495-5755,1,4,0
+Masa Luna,209 E Holly Ave,Sterling,VA,20164,(703) 444-7333,11,4,2
+El Manantial,2618 N Pershing Dr,Arlington,VA,22201,(703) 522-2449,2,1.5,0
+Pachanga Grill,8395 Piney Orchard Pkwy,Odenton,MD,21113,(410) 551-9318,119,3.5,2
+La Palapa Too,7500 Montpelier Rd,Laurel,MD,20723,(301) 725-3111,107,2.5,2
+Las Delicias Restaurant Buffet,7976 New Hampshire Ave NE,Hyattsville,MD,20783,(301) 434-4789,6,3,2
+Chuy’s Rockville,12266 Rockville Pike,Rockville,MD,20852,(512) 560-0120,8,4.5,2
+Ines Place,10901 Main Street,Fairfax,VA,22030,(703) 383-0009,5,4,1
+Chipotle Mexican Grill,10400 Old Georgetown Rd,Bethesda,MD,20814,(301) 214-2410,41,3,1
+ABI Azteca Grill & Bar,11514 Middlebrook Rd,Germantown,MD,20876,(301) 972-1406,73,4,2
+Casa Fiesta,6244 Little River Tpke,Alexandria,VA,22312,(703) 354-5510,7,2.5,2
+California Tortilla,12211 Darnestown Rd,Gaithersburg,MD,20878,(301) 330-8214,40,4,1
+Los Toltecos,7  Pidgeon Hill Dr,Sterling,VA,20164,(703) 421-3380,194,4,2
+Chipotle Mexican Grill,7923 L Tysons Corner Ctr,McLean,VA,22102,(703) 288-3890,86,2.5,1
+Chipotle Mexican Grill,6299 Seven Corners Ctr,Falls Church,VA,22044,(703) 534-6464,40,3,1
+Anita’s New Mexico Style Mexican Food,701 Elden St,Herndon,VA,20170,(703) 481-1441,126,3,1
+El Rancho Migueleno,3709 Columbia Pike,Arlington,VA,22204,(703) 486-8689,4,2,2
+Chipotle Mexican Grill,4531 Duke St,Alexandria,VA,22304,(703) 370-2152,64,2.5,1
+El Chilango Mexican Grill,19560 N Frederick Rd,Germantown,MD,20876,(240) 483-1517,15,4.5,1
+Taco Bar,3 Russell Ave,Gaithersburg,MD,20877,(301) 987-9015,68,4,1
+Las Colinas Restaurant,7718 Gunston Plz,Lorton,VA,22079,(703) 339-4444,14,3,2
+Chipotle Mexican Grill,10201 Martin Luther King Jr Hwy,Bowie,MD,20720,(301) 464-4517,37,3,1
+Baja Fresh Mexican Grill,3011 Nutley St,Fairfax,VA,22031,(703) 280-5400,31,3,1
+Moe’s Southwest Grill,2315 Highland Crossing Dr,Herndon,VA,20170,(703) 796-6637,26,3.5,1
+Chipotle Mexican Grill,7108 Old Keene Mill Rd,Springfield,VA,22150,(703) 644-6982,77,2,1
+Mexican Food Trucks near MVA,15 Metropolitan Grove Rd,Gaithersburg,MD,20883,(240) 620-6915,57,4.5,1
+Fiesta Burrito,4308 Rhode Island Ave,Brentwood,MD,20722,(301) 927-5200,1,4,0
+Mexico Lindo Restaurant,5652 Annapolis Rd,Bladensburg,MD,20710,(301) 779-7911,3,1.5,0
+El Rinconcito Del Sabor,410 South Sterling Blvd,Sterling,VA,20164,(703) 421-0013,43,3.5,1
+Taco Bell,4923 Lee Hwy,Arlington,VA,22207,(703) 525-2015,33,2.5,1
+Taco Bell,4045 Branch Ave,Temple Hills,MD,20748,(301) 894-7288,10,2.5,1
+Chipotle Mexican Grill,6242 Little River Turnpike,Alexandria,VA,22312,(703) 750-0434,9,2.5,1
+Chipotle Mexican Grill,935 Ellsworth Dr,Silver Spring,MD,20910,(301) 588-0242,0,0,0
+Rinconcito Chapin,303 N Glebe Rd,Arlington,VA,22203,(703) 243-1929,2,2,1
+Sabor Azteca,8 E Diamond Ave,Gaithersburg,MD,20877,(301) 987-7272,12,4,1
+Taco Bell,9598 Livingston Rd,Fort Washington,MD,20744,(301) 248-2778,6,1.5,0
+Taco Galesco,8645 Richmond Hwy,Alexandria,VA,22309,(703) 360-1253,2,3,0
+California Tortillia,12239 Fair Lakes Pkwy,Fairfax,VA,22033,(703) 278-0007,64,3.5,1
+Marina’s Pollo A La Brasa,13820 Old Columbia Pike,Silver Spring,MD,20904,(301) 879-1615,11,3.5,2
+Pulgarcito Grill,1306 Horner Rd,Woodbridge,VA,22191,(703) 490-5202,9,3,2
+Chipotle Mexican Grill,10135 Colesville Rd,Silver Spring,MD,20901,(240) 247-1794,41,2,1
+Chipotle Mexican Grill,8913 Woodyard Rd,Clinton,MD,20735,(240) 846-6217,42,3,1
+Cusick Ralph A,4815 Fort Sumner Dr,Bethesda,MD,20816,(301) 229-1414,1,3,0
+El Azteca,12210 Clarksville Pike,Clarksville,MD,21029,(410) 531-3001,103,3.5,2
+El Norteno,8917 Brookville Rd,Silver Spring,MD,20910,(301) 588-7730,8,2,2
+El Ranchon,7305 Richmond Hwy,Alexandria,VA,22306,(703) 660-6022,3,2,2
+El Tropico,7848 Richmond Hwy,Alexandria,VA,22306,(703) 780-4900,0,0,0
+Red Rocks Cafe and Tequila Bar,13850 Braddock Rd,Centreville,VA,20121,(703) 815-6900,72,3.5,2
+Guapo’s Rotisserie Chicken & Tex Mex Grill,14418 Gideon Dr,Woodbridge,VA,22192,(703) 490-9622,131,3.5,1
+Chipotle Mexican Grill,213 Maple Ave E,Vienna,VA,22180,(703) 255-1100,68,3,1
+Ebony Inn Restaurant,5367 Sheriff Rd,Fairmount Heights,MD,20743,(301) 773-8858,5,3.5,3
+Taco Bell,4681 King St.,Arlington,VA,22206,(703) 820-2056,29,3,1
+Chipotle Mexican Grill,5955 Kingstowne Towne Ctr,Alexandria,VA,22315,(703) 924-6018,80,2.5,1
+Pollo Sabroso,11212 Triangle Ln,Silver Spring,MD,20902,,1,4,0
+Baja Fresh Mexican Grill,1607 Rockville Pike,Rockville,MD,20852,(301) 770-4339,30,2.5,1
+El Ranchon,7305 Richmond Hwy,Alexandria,VA,22306,(703) 660-6022,3,2,2
+Taco Bell,4681 King St.,Arlington,VA,22206,(703) 820-2056,29,3,1
+Taco Galesco,8645 Richmond Hwy,Alexandria,VA,22309,(703) 360-1253,2,3,0
+Rio Grande Cafe,231 Rio Blvd,Gaithersburg,MD,20878,(240) 632-2150,71,3.5,2
+Ay Jalisco Mexican Restaurant,425 S Frederick Ave,Gaithersburg,MD,20877,(240) 631-6868,27,2.5,2
+Chipotle Mexican Grill,10161 New Hampshire Ave,Silver Spring,MD,20903,(301) 439-0715,2,1,0
+Taco Bell,3330 Donnell Dr,Forestville,MD,20747,(301) 735-0922,5,1,0
+Chipotle Mexican Grill,213 Maple Ave E,Vienna,VA,22180,(703) 255-1100,68,3,1
+Alto Plaza Restaurant and Lounge,5800 Old Centreville Rd,Centreville,VA,20121,(703) 266-8811,201,3,2
+Lily’s Mexican Market,6490 Dobbin Rd,Columbia,MD,21045,(410) 772-0765,47,4,1
+Ebony Inn Restaurant,5367 Sheriff Rd,Fairmount Heights,MD,20743,(301) 773-8858,5,3.5,3
+Chipotle Mexican Grill,8191 Strawberry Ln,Falls Church,VA,22042,(571) 423-5150,83,2.5,1
+Desert Moon Cafe,1864 E Tysons Corner Center,McLean,VA,22102,(703) 848-0380,3,1,0
+Chipotle Mexican Grill,5955 Kingstowne Towne Ctr,Alexandria,VA,22315,(703) 924-6018,80,2.5,1
+On The Border Mexican Grill & Cantina,2651 Prince William Pkwy,Woodbridge,VA,22192,(703) 595-2910,127,3,2
+Anita’s New Mexico Style Mexican Food,13921 Lee Jackson Memorial Hwy,Chantilly,VA,20151,(703) 378-1717,140,3,1
+Ruben’s Crepes & Mexican Food,131 National Business Pkwy,Jessup,MD,20701,,3,4.5,1
+Los Toltecos,4120 Merchant Plz,Woodbridge,VA,22192,(703) 680-4120,111,3,2
+California Tortilla,255 Spectrum Ave,Gaithersburg,MD,20879,(240) 541-4170,60,4.5,1
+Salsa’s Mex Grill,2700 Potomac Mills Cir,Woodbridge,VA,22192,(703) 492-2253,17,4,1
+Cinco de Mayo,8874 Mc Gaw Road,Columbia,MD,21045,(410) 381-7111,40,3.5,2
+Chipotle Mexican Grill,358 W Broad St,Falls Church,VA,22046,(703) 534-8301,69,2,1
+El Sitio,8210 Piney Branch Rd.,Silver Spring,MD,20910,(301) 495-2928,0,0,0
+Silvestre Express,4810 Silver Hill Rd,Suitland,MD,20746,(240) 532-5707,0,0,0
+La Frontera Spanish Restaurant,3  Russell Ave,Gaithersburg,MD,20877,(301) 330-0663,8,4,1
+Sport House Grill,3249 Columbia Pike,Arlington,VA,22204,(703) 892-7040,1,3,0
+Taco Bell,7720 Blair Road,Silver Spring,MD,20912,(301) 588-7483,17,1.5,1
+Taco Bell,1100 Rockville Pike,Rockville,MD,20852,(301) 251-6790,33,4,1
+Chipotle Mexican Grill,8066 Rolling Rd,Springfield,VA,22153,(571) 499-4050,38,3,1
+Chipotle Mexican Grill,3425 Jefferson Davis Hwy,Alexandria,VA,22305,(571) 255-6044,74,2,1
+Tippy’s Taco House,14119 Saint Germain Dr,Centreville,VA,20121,(703) 830-1333,77,3.5,1
+Pupuseria La Cabanita,1115 University Blvd E,Hyattsville,MD,20783,(301) 408-1119,1,4,0
+Chipotle Mexican Grill,865-B Rockville Pike,Rockville,MD,20852,(301) 279-5461,35,2.5,1
+On The Border Mexican Grill & Cantina,8230 Gateway Overlook Dr,Elkridge,MD,21075,(410) 312-1490,142,3,2
+Senor Tequila’s,20021 Century Blvd,Germantown,MD,20874,(301) 569-4574,119,3,2
+El Paso Mexican Grill,16918 Dumfries Rd,Dumfries,VA,22025,(571) 285-1330,117,4,2
+Chipotle Mexican Grill,10250 Baltimore Ave,College Park,MD,20740,(240) 387-7140,23,2,1
+Pollo Don Pedro,2510 Conway Rd,Gambrills,MD,21054,(410) 721-2215,18,3.5,1
+Taco Bell,11160 Veirs Mill Road,Wheaton,MD,20902,(301) 933-7700,3,4,0
+Chipotle Mexican Grill,6500 Springfield Mall,Springfield,VA,22150,(571) 255-6814,6,2.5,2
+Taqueria La Solucion,6017 66th Ave,Riverdale,MD,20737,(301) 459-2230,0,0,0
+Taco Bell,3500 E West Hwy,Hyattsville,MD,20782,(301) 559-6959,2,1.5,0
+Taco Bell,6315 Oxon Hill Road,Oxon Hill,MD,20745,(301) 839-5722,13,2,1
+Texas Parrillada,9631 Lost Knife Rd,Gaithersburg,MD,20877,(301) 926-0880,20,3.5,1
+Cuco Lindo Restaurant,8428 Richmond Hwy,Alexandria,VA,22309,(703) 619-0690,2,2,2
+El Norteno Deli,4600 Cooper Ln,Hyattsville,MD,20784,(301) 366-7792,0,0,0
+Taco Bell,7501 Annapolis Road,Landover Hills,MD,20784,(301) 459-0807,3,2.5,1
+Fresco Taco,14555 Jefferson Davis Hwy,Woodbridge,VA,22191,(703) 490-1888,17,3.5,1
+Chevys Fresh Mex,7000 Arundel Mills Cir,Hanover,MD,21076,(410) 799-1505,179,3.5,2
+District Taco,5275-C Leesburg Pike,Falls Church,VA,22041,(703) 560-0369,0,0,0
+Taco Bell,1006 Largo Center Dr,Largo,MD,20774,(301) 350-1327,11,3,1
+Cafe Rio Mexican Grill,20680 Seneca Meadows Pkwy,Germantown,MD,20876,(301) 528-0200,91,3.5,1
+Chipotle Mexican Grill,14354 Baltimore Ave,Laurel,MD,20707,(301) 604-2241,60,3,1
+Xitomate,5850 Waterloo Rd,Columbia,MD,21045,(410) 750-8787,228,3,2
+Tijuana Tacos VI,7703 Quarterfield Rd,Glen Burnie,MD,21061,(410) 766-0925,136,4,1
+Las Cazuelitas,8500 Dakota Dr,Gaithersburg,MD,20877,(301) 926-2640,2,3,2
+Chipotle Mexican Grill,11062 Lee Hwy,Fairfax,VA,22030,(703) 934-7099,65,3,1
+Mama Rosa’s Ice,13618 Jefferson Davis Hwy,Woodbridge,VA,22191,(571) 277-1315,4,5,0
+Taco Bell,1100 S. Hayes Street,Arlington,VA,22202,(703) 412-9388,8,2.5,1
+El Patio Restaurant,9001 Annapolis Rd,Lanham,MD,20706,(301) 552-1157,0,0,0
+Chipotle Mexican Grill,6770 Richmond Hwy,Alexandria,VA,22306,(703) 660-9214,94,2,1
+Chipotle Mexican Grill,2 Watkins Park Drive,Upper Marlboro,MD,20774,(301) 249-4941,9,1.5,2
+Dona Tere Restaurant,14490 Jefferson Davis Hwy,Woodbridge,VA,22191,(703) 491-3550,22,3,1
+Taco Bell,1150 South Campus Dining Hall,College Park,MD,20742,(301) 314-6569,0,0,0
+Taco Bell,4021 Bladensburg Rd,Colmar Manor,MD,20722,(301) 277-0799,8,1.5,1
+Almita’s Restaurant & Carry Out,13418 Occoquan Rd,Woodbridge,VA,22191,(703) 490-4644,16,2.5,2
+Chipotle Mexican Grill,9301 Woodmore Centre Dr,Lanham,MD,20706,(301) 341-0897,18,2.5,1
+Chipotle Mexican Grill,13501 Connecticut Ave,Aspen Hill,MD,20906,(301) 598-2215,44,2.5,1
+Acapulco,6141 Franconia Rd,Alexandria,VA,22310,(703) 313-0308,0,0,0
+La Frontera Market & Deli,6303 Eastern Ave,Takoma Park,MD,20912,(301) 853-6700,0,0,0
+La Villa Restaurant,5403 Kenilworth Ave,Riverdale,MD,20737,(301) 779-6060,0,0,0
+El Boqueron 2 Restaurant and Night Club,1330 E Gude Dr,Rockville,MD,20850,(301) 424-0745,8,2,1
+Spencerville Deli,2215 Spencerville rd,Spencerville,MD,20868,(301) 476-7800,4,4,0
+El Sombrero,529 S Camp Meade Rd,Linthicum Heights,MD,21090,(410) 859-4136,28,4.5,1
+Taco Bell,362 Maple Avenue East,Vienna,VA,22180,(703) 938-5884,17,3,1
+Samantha’s Diner and Bakery,2503 University Blvd W,Silver Spring,MD,20902,(301) 933-0998,14,2,1
+Chipotle Mexican Grill,11802 E Rockville Pike,Rockville,MD,20852,(240) 292-7466,42,3,1
+Taco Bell,1006 Largo Center Dr,Largo,MD,20774,(301) 350-1327,11,3,1
+Sweeto Burrito,5540 Staples Mill Plz,Woodbridge,VA,22193,(571) 284-8344,83,4,1
+El Boqueron 2 Restaurant and Night Club,1330 E Gude Dr,Rockville,MD,20850,(301) 424-0745,8,2,1
+Chipotle Mexican Grill,15500 Excelsior Dr Bowie,Bowie,MD,20716,(301) 262-4580,36,2.5,1
+Samantha’s Diner and Bakery,2503 University Blvd W,Silver Spring,MD,20902,(301) 933-0998,14,2,1
+Tio Pancho Mexican Grill,408 Elden St,Herndon,VA,20170,,5,3,0
+Qdoba,13031 Worldgate Dr,Herndon,VA,20170,(703) 796-1101,32,3,1
+Nalley Fresh,6455 Dobbin Rd,Columbia,MD,21045,(443) 220-0282,46,4,1
+Taco Bell,2119 University Blvd W,Wheaton,MD,20902,(301) 946-8286,7,2,0
+Anita’s New Mexico Style Mexican Food - Temp. CLOSED,8015 Braddock Rd,North Springfield,VA,22151,(703) 455-3466,0,0,0
+Horizontes II,6000 66th Ave,Riverdale,MD,20737,(301) 577-1677,0,0,0
+Milita’s Taco Truck,Rt 1 / Meadow Ridge Rd.,Elkridge,MD,21075,,15,4.5,1
+Qdoba Mexican Grill,2824 Prince William Pkwy,Woodbridge,VA,22192,(571) 285-4276,35,3.5,1
+Chipotle Mexican Grill,9506 Main St,Fairfax,VA,22031,(571) 328-5485,86,1.5,1
+Restaurante Los Pueblitos,8501 Richmond Hwy,Alexandria,VA,22309,(703) 780-9875,0,0,0
+Mama Rosa’s Ice,13618 Jefferson Davis Hwy,Woodbridge,VA,22191,(571) 277-1315,4,5,0
+Taco Bell,8419 Old Court House Road,Vienna,VA,22182,(703) 821-0939,14,3.5,1
+La Frontera Market & Deli,6303 Eastern Ave,Takoma Park,MD,20912,(301) 853-6700,0,0,0
+Cancun Mexican Cuisine,117 E Diamond Ave,Gaithersburg,MD,20877,(301) 840-9474,5,2,3
+Chipotle Mexican Grill,11160 Viers Mill Rd,Wheaton,MD,20902,(240) 292-7413,13,2.5,1
+Chipotle Mexican Grill,10116 River Rd,Potomac,MD,20854,(301) 299-3563,16,2.5,1
+California Grill,14 Bureau Dr,Gaithersburg,MD,20878,(240) 632-1400,18,3,2
+Gina’s Cantina,722 Generals Hwy,Millersville,MD,21108,(410) 923-8226,69,3.5,2
+La Feria Del Pescado,3856 Mount Vernon Ave,Alexandria,VA,22305,(703) 683-8855,0,0,0
+Taco Bell,231 S Van Dorn St,Alexandria,VA,22304,(703) 370-1478,20,2.5,1
+Taco Bell,7450 Little River Turnpike,Annandale,VA,22003,(703) 256-2086,34,2,1
+Taco Bell,8251 Central Ave,Capitol Heights,MD,20743,(301) 499-5241,6,2.5,0
+Chipotle Mexican Grill,11160 G2 S Lakes Dr,Reston,VA,20191,(571) 392-7746,44,2.5,1
+Rincon VIP,2911 Arlington Dr,Alexandria,VA,22306,(703) 765-2200,1,1,0
+Chipotle Mexican Grill,2946 Chain Bridge Rd,Oakton,VA,22124,(571) 328-5279,35,3,1
+Los Socios,19725 Frederick Rd,Germantown,MD,20876,(240) 552-0706,2,4.5,0
+Taco Bell,7622 Osborne Rd,Upper Marlboro,MD,20772,(301) 952-8226,7,1.5,0
+La-Fondita Bakery & Resturant,7610 Little River Tpke,Annandale,VA,22003,(703) 941-4377,0,0,0
+Chipotle Mexican Grill,205 Boardwalk Pl,Gaithersburg,MD,20878,(240) 399-0245,28,2.5,1
+Taco Bell,5890 Kingstowne Center,Alexandria,VA,22315,(703) 921-9301,14,2,1
+The Charley Horse Grill,5731 Lee Hwy,Arlington,VA,22207,(703) 532-4112,0,0,0
+Chipotle Mexican Grill,13354 Franklin Farm Rd,Herndon,VA,20171,(703) 435-4715,33,3,1
+El Paisano,9112 Rothbury Dr,Montgomery Village,MD,20886,(301) 519-3559,11,3.5,1
+La Mexicana,13016 Middlebrook Rd,Germantown,MD,20874,(301) 972-0500,48,2.5,2
+L & D Tacos and Pizza,7915 Waterloo Rd,Jessup,MD,20794,(410) 799-0999,19,3.5,1
+Baja Fresh,302 King Farm Blvd,Rockville,MD,20850,(240) 683-3907,24,3,1
+Taco Bell,7230 Richmond Hwy,Alexandria,VA,22306,(703) 765-1249,23,3.5,1
+Chipotle Mexican Grill,3250 Crain Hwy,Waldorf,MD,20603,(301) 632-6959,29,3,1
+Taco Bell,8652 Richmond Hwy,Alexandria,VA,22309,(703) 360-3663,7,2.5,1
+Chipotle Mexican Grill,1144 Elden St,Herndon,VA,20170,(703) 435-3325,64,2.5,1
+Chipotle Mexican Grill,5747 Burke Centre Pkwy,Burke,VA,22015,(703) 250-2537,50,3,1
+Chipotle Mexican Grill,9506 Main St,Fairfax,VA,22031,(571) 328-5485,86,1.5,1
+Chipotle Mexican Grill,14925 Shady Grove Rd,Rockville,MD,20850,(301) 838-9222,99,3,1
+Angelica’s,10400-10408 Guilford Rd,Jessup,MD,20794,(301) 906-9550,2,4,1
+Austin Grill Custom Burrito Shop,3955 Chain Bridge Rd,Fairfax,VA,22030,(703) 273-8745,0,0,0
+Taco Bell,2119 University Blvd W,Wheaton,MD,20902,(301) 946-8286,7,2,0
+Taco Bell Express,11750 Fair Oaks Mall,Fairfax,VA,22033,(703) 691-0008,7,4.5,1
+Mexican Grill,19710-K Fisher Ave,Poolesville,MD,20837,(301) 349-0010,17,3.5,2
+Test Centers America,None,Arlington,VA,22201,(703) 555-1212,0,0,0
+Qdoba,1404 S Main Chapel Way,Gambrills,MD,21054,(410) 721-2205,11,2.5,1
+California Tortilla,22000 Dulles Retail Plz,Dulles,VA,20166,(703) 421-0114,29,3.5,1
+Taco Bell,1535 Command Dr,Joint Base Andrews Naval Air Facility,MD,20762,(301) 735-1005,0,0,0
+Casa Maria Cafe Salvadorian Restaurant,408 Elden St,Herndon,VA,20170,(703) 437-8796,1,5,2
+Baja Fresh Mexican Grill,13940 Lee Jackson Memorial Hwy,Chantilly,VA,20151,(703) 378-3804,26,3.5,1
+Tacos El Rey,None,Gaithersburg,MD,20877,(240) 714-8251,1,4,1
+Tio Pancho Mexican Grill,408 Eden St,Herndon,VA,20170,(703) 437-1108,12,2.5,1
+Maria’s Baja Café,7880 Washington Blvd,Elkridge,MD,21075,(410) 799-0136,5,3.5,1
+Los Portales,6938 Aviation Blvd,Glen Burnie,MD,21061,(410) 766-9800,114,3.5,2
+El Patio Restaurant,10424 Baltimore Ave,Beltsville,MD,20705,(301) 595-5244,0,0,0
+El Esteron,8500 Dakota Dr,Gaithersburg,MD,20877,(301) 330-9622,1,3,1
+Village Grille,50 Southlawn Ct,Rockville,MD,20850,(202) 213-0392,0,0,0
+Taco Bell,9910 Key West Avenue,Rockville,MD,20850,(301) 762-6547,39,1.5,1
+Chipotle Mexican Grill,8461 Leesburg Pike,Vienna,VA,22182,(571) 326-1608,50,1,1
+Chipotle Mexican Grill,11939 Grand Commons Ave,Fairfax,VA,22030,(703) 222-7344,86,3.5,1
+Taco Bell,13830 Georgia Ave,Silver Spring,MD,20906,(301) 871-9286,20,2,1
+Chipotle Mexican Grill,7101 Democracy Blvd,Bethesda,MD,20817,(301) 469-0320,12,2.5,1
+Taco Bell,11257 Roger Bacon Dr,Reston,VA,20190,(703) 437-5622,19,3.5,1
+Chipotle Mexican Grill,13042 Fair Lakes Shopping Ctr,Fairfax,VA,22033,(703) 222-1117,44,2.5,1
+Moe’s Southwest Grill,5005 Westone Plz,Chantilly,VA,20151,(703) 817-9540,50,3,1
+Chipotle Mexican Grill,12152 Sunset Hills Rd,Reston,VA,20190,(703) 435-0888,98,3.5,1
+Taco Bell,10810 Baltimore Ave,Beltsville,MD,20705,(301) 931-8451,11,3.5,1
+Taco Bell,935 West Broad Street,Falls Church,VA,22046,(703) 241-9608,29,3,1
+Polio Latino A La Brasa,7028 Commerce St,Springfield,VA,22150,(703) 866-9330,0,0,0
+Sabor Latino,2910 Dale Boulevard,Woodbridge,VA,22193,(703) 583-4877,14,2.5,2
+Moctec Enterprises,3601 West St,Hyattsville,MD,20785,(301) 386-9090,0,0,0
+Taco Bell,8419 Old Court House Road,Vienna,VA,22182,(703) 821-0939,14,3.5,1
+Copan,733 Elden St,Herndon,VA,20170,,1,3,0
+Fiero Mexican Grill,300 Sentinel Dr,Annapolis Junction,MD,20701,(410) 934-7104,6,3.5,1
+Taco Bell,1150 South Campus Dining Hall,College Park,MD,20742,(301) 314-8037,0,0,0
+Taco Bell,2200 Crain Hwy,Waldorf,MD,20601,(301) 870-8825,6,2.5,1
+Taco Bell,11751 Beltsville Drive,Beltsville,MD,20705,(301) 586-9444,18,1.5,1
+Chipotle Mexican Grill,4269 Merchant Plz,Woodbridge,VA,22192,(703) 580-6738,60,2.5,1
+Baja Fresh Mexican Grill,20968 Southbank St,Sterling,VA,20165,(571) 434-7230,34,3,1
+Baja Fresh Mexican Grill,7645 Arundel Mills Blvd,Hanover,MD,21076,(443) 755-0485,41,3,1
+California Tortilla,199 E Montgomery Ave,Rockville,MD,20850,(301) 610-6500,45,2.5,1
+Chipotle Mexican Grill,6317 Multiplex Dr,Centreville,VA,20121,(703) 830-1438,40,3.5,1
+Laredo Taco Company,11854 Sunrise Valley Dr,Reston,VA,20191,(571) 278-0789,4,2.5,0
+Las Vegas Restaurant,7968 Washington Blvd,Jessup,MD,20794,(410) 799-3242,24,3,1
+Chipotle Mexican Grill,3353 Corridor Marketplace,Laurel,MD,20721,(240) 241-5017,26,2.5,1
+Chipotle,15475 Annapolis Rd,Bowie,MD,20715,(301) 262-2769,0,0,1
+Chipotle Mexican Grill,564 N Frederick Ave,Gaithersburg,MD,20877,(240) 632-1228,45,2.5,1
+Mi Hacienda,21430 Cedar Dr 122,Sterling,VA,20164,(703) 421-0852,6,3,2
+California Tortilla,14240 Centreville Sq,Centreville,VA,20121,(703) 830-3859,14,3,1
+Taco Bell,13360 Laurel Bowie Rd,Laurel,MD,20708,(410) 792-9225,10,3,1
+Qdoba Mexican Grill,6476 Dobbin Center Way,Columbia,MD,21045,(410) 740-6977,54,3,1
+Restaurante Abi Azteca Grill & Bar,13760 Smoketown Rd,Woodbridge,VA,22192,(703) 590-4080,4,2.5,1
+Los Amigos Grill,14532 Potomac Mills Rd,Woodbridge,VA,22192,(703) 499-8088,12,2.5,2
+Moe’s Southwest Grill,12841 Galveston Ct,Manassas,VA,20112,(703) 897-6637,40,3,1
+Chipotle Mexican Grill,96 Main St,Gaithersburg,MD,20878,(301) 926-3875,47,2.5,1
+Baja Fresh,19810 Century Blvd,Germantown,MD,20874,(301) 528-1630,39,3.5,1
+El Pollo Gordo,2911 Arlington Dr,Alexandria,VA,22306,(703) 721-1999,0,0,0
+Baja Fresh Mexican Grill,12150 W Ox Rd,Fairfax,VA,22030,(703) 352-1792,1,5,0
+Association For the Advancement of Mexican Americans,1616 H Street NW,Washington,DC,20006,(202) 639-9745,0,0,0
+Mexican American Legal Defense & Educational Fund,1717 K Street NW,Washington,DC,20036,(202) 293-2828,0,0,0
+Association For the Advancement of Mexican Americans,1616 H Street NW,Washington,DC,20006,(202) 639-9745,0,0,0
+Mexican American Legal Defense & Educational Fund,1717 K Street NW,Washington,DC,20036,(202) 293-2828,0,0,0
+Las Palmas Mexican Grill,117 E Diamond Ave,Gaithersburg,MD,20877,(301) 840-9474,0,0,0
+California Tortilla,3934 Fettler Park Dr,Dumfries,VA,22025,(703) 291-7992,27,3,1
+Uncle Julio’s Rio Grande Cafa,231 Rio Blvd,Gaithersburg,MD,20878,(240) 632-2150,0,0,0
+Chipotle Mexican Grill,14416 Chantilly Crossing Ln,Chantilly,VA,20151,(703) 961-0688,76,3,1
+Taco Bell,18415 Woodfield Road,Gaithersburg,MD,20879,(301) 840-8356,21,2.5,1
+Mi Pueblito Restaurant,6 N Summit Ave,Gaithersburg,MD,20877,(240) 246-0402,0,0,0
+Taco Bell,5661 Burke Centre Pkwy,Burke,VA,22015,(703) 239-0047,19,2.5,1
+Taco Bell,1811 G Street,Andrews Afb,MD,20762,(301) 568-0180,1,2,1
+Taco Bell,9402 Old Burke Lake Rd.,Burke,VA,22015,(703) 764-8882,19,2,1
+Taco Bell,12811 Federal Systems Park Dr,Fairfax,VA,22033,(703) 449-8990,25,2.5,1
+Taco Bell,91 Smallwood Drive,Waldorf,MD,20602,(301) 843-8475,11,3,1
+Taco Bell,4400 University Avenue  MSN 2F8,Fairfax,VA,22030,(703) 993-9259,1,2,0
+Afrikiko Restaurant & Bar,14482 Jefferson Davis Hwy,Woodbridge,VA,22191,(703) 495-3073,2,2.5,2
+Taco Bell,15701 Annapolis Rd,Bowie,MD,20715,(301) 262-0454,12,3.5,1
+El Taco Chevere,1110 Elden St,Herndon,VA,20170,(703) 707-8510,1,1,0
+El Tapatio 2,615 S Frederick Ave Ste A,Gaithersburg,MD,20877,(301) 208-2607,0,0,0
+Los Compas” tortas tacos y burritos,3497 Laurel Fort Meade Rd,Maryland City,MD,20724,(240) 608-9724,0,0,0
+Tortacos,13024 Middlebrook Rd,Germantown,MD,20874,(240) 246-7717,20,4.5,1
+Taco Bell,11750 Lee Jackson Memorial Highway,Fairfax,VA,22033,(703) 691-3220,1,4,1
+Qdoba Mexican Grill,1404 S Main Chapel Way,Gambrills,MD,21054,(410) 721-2205,4,2,1
+Taco Bell,12721 Harbor Dr,Lake Ridge,VA,22192,(703) 494-2435,9,2,1
+Chipotle Mexican Grill,2503 Brandermill Blvd,Gambrills,MD,21054,(410) 451-4161,61,2.5,1
+Ranchero’s Mexican Grill,14220-A1 Centreville Sq,Centreville,VA,20121,,1,1,0
+Chipotle Mexican Grill,2457 Prince William Pkwy,Woodbridge,VA,22192,(703) 490-9746,102,3,1
+El Norteño Grill,602 Crain Hwy N,Glen Burnie,MD,21061,(410) 424-3974,9,3,2
+Mexican American Floor Installation,603 Carlisle Dr,Herndon,VA,20170,(703) 437-1600,0,0,0
+Chipotle Mexican Grill,11913 Freedom Dr,Reston,VA,20190,(703) 435-5795,69,2.5,1
+Chipotle Mexican Grill,7049 Arundel Mills Blvd,Hanover,MD,21076,(410) 796-5028,84,3,1
+Chipotle Mexican Grill,7049 Arundel Mills Blvd,Hanover,MD,21076,(410) 796-5028,84,3,1
+Chipotle Mexican Grill,3333 Olney Sandy Springs Rd,Olney,MD,20832,(301) 570-1729,31,3,1
+Taco Bell,2639 Annapolis Rd,Hanover,MD,21076,(410) 551-3838,21,2.5,1
+Chipotle Mexican Grill,21031 Tripleseven Rd,Sterling,VA,20165,(703) 421-5079,79,2,1
+Chipotle Mexican Grill,20940 North Frederick Rd,Germantown,MD,20874,(301) 916-7506,5,1.5,1
+El Patio Restaurant,7180 Cradlerock Way Ste B,Columbia,MD,21045,(410) 381-7802,0,0,0
+Mexican American Floor Installation,603 Carlisle Dr,Herndon,VA,20170,(703) 437-1600,0,0,0
+Surtidora Mexicana,13734 Jefferson Davis Hwy,Woodbridge,VA,22191,(703) 490-9890,0,0,0
+Taco Bell,13880 Shoppers Best Way,Woodbridge,VA,22192,(703) 583-0447,13,3,1
+Chipotle Mexican Grill,19881 Century Blvd,Germantown,MD,20874,(240) 686-1060,109,2,1
+Las Golondrinas,20220 Frederick Rd,Germantown,MD,20876,(240) 422-7008,0,0,2
+Taco Bell,8081 Veterans Highway,Millersville,MD,21108,(410) 969-5001,13,4,1
+Chipotle Mexican Grill,19881 Century Blvd,Germantown,MD,20874,(240) 686-1060,109,2,1
+Cafe Caliente,13412 Jefferson Davis Hwy,Woodbridge,VA,22191,(703) 509-4442,0,0,0
+Chipotle Mexican Grill,Post Security - Ab Concourse Food Ct,Baltimore,MD,21240,(410) 859-8015,60,3.5,1
+Taco Bell,9800 Savage Road  Gate 5,Fort Meade,MD,20755,(301) 688-6301,0,0,0
+Restaurant Cristiano,18925 Earhart Ct,Gaithersburg,MD,20879,,0,0,0
+Tu Casa Restaurant,13634 Jefferson Davis Hwy,Woodbridge,VA,22191,(703) 499-9878,0,0,0
+Taco Bell,45960 Denizen Plaza Road,Sterling,VA,20165,(703) 450-7808,9,3,1
+Taco Bell,2170 Centreville Rd,Herndon,VA,20170,(703) 437-7932,19,3,1
+Moe’s Southwest Grill,7000 Arundel Mills Mall Cir,Hanover,MD,21076,(443) 755-9900,22,2,1
+Taco Bell,4418 Chantilly Place,Chantilly,VA,20151,(703) 263-2034,17,2.5,1
+Chipotle Mexican Grill,6181 Old Dobbin Ln,Columbia,MD,21045,(410) 872-8688,111,2.5,1
+Sam’s Kitchen Kafe,6120 Union Mill Rd,Clifton,VA,20124,(703) 861-7947,0,0,0
+EN VIVO,7002 Arundel Mills Cir,Hanover,MD,21076,(443) 445-2500,0,0,2
+Moe’s Southwest Grill,2700 Potomac Mills Circle,Woodbridge,VA,22192,(703) 348-6426,1,2,0
+El Rinconcito Latino,4112 Dale Blvd,Woodbridge,VA,22193,(703) 580-1194,0,0,0
+Taco Bell,19650 Gunners Branch Road,Germantown,MD,20876,(301) 353-1169,7,1.5,1
+Mi Gran Mariachi,14532 Potomac Mills Rd,Woodbridge,VA,22192,(703) 499-8088,1,1,2
+Pepper’s Mexican Grill,7062 Elm Rd,Glen Burnie,MD,21240,,19,2.5,2
+La Perla Restaurant,2910 Dale Blvd,Woodbridge,VA,22193,(703) 583-0300,0,0,0
+Taco Bell,7102 Minstrel Way,Columbia,MD,21045,(410) 720-5099,32,4,1
+Taco Bell,8620 Washington Blvd,Jessup,MD,20794,(301) 498-2818,6,3,1
+Cafe Rio Mexican Grill,20680 Seneca Meadows Pkwy,Germantown,MD,20876,(301) 528-0200,5,3,2
+Taco Bell,13800 Metrotech Drive,Chantilly,VA,20151,(703) 817-9720,27,2,1
+Taco Bell,22288 S Sterling Blvd,Sterling,VA,20164,(703) 450-8393,13,3,1
+Taco Bell,1921 Daniel Stuart Sq,Woodbridge,VA,22191,(703) 491-9900,12,2.5,1
+Zona Mexicana,7062 Elm Rd,Linthicum,MD,21090,,52,2,2
+Taco Bell,4248 Dale Blvd,Dale City,VA,22193,(703) 680-9411,17,3,1
+Zona Cocina,BWI Airport,Baltimore,MD,21240,(410) 850-4846,47,2.5,2
+El Taco Chevere 2,46950 Community Plz Ste 123,Sterling,VA,20164,(703) 430-1673,0,0,0
+Pollo Llc American,13505 Dulles Technology Dr Ste 2,Herndon,VA,20171,(571) 323-2990,0,0,0
+Blas Supermarket,1701 Crain Hwy S,Glen Burnie,MD,21061,(410) 768-7866,0,0,2
+Taco Bell,172 Dumfries Ave,Dumfries,VA,22026,(703) 441-1784,9,2.5,1
+La Sirenita,702 Crain Hwy S,Glen Burnie,MD,21061,(410) 768-5446,6,3,1
+Taco Bell,19923 Century Blvd,Germantown,MD,20874,(301) 528-4434,41,2.5,1
+Taco Bell,6281 Washington Blvd,Elkridge,MD,21075,(410) 379-5664,6,3,1
+Taco Bell,21100 Dulles Town Circle,Dulles,VA,20166,(703) 421-5770,0,0,0
+Mexican Motors,7421 Washington Blvd,Elkridge,MD,21075,(410) 579-8088,0,0,0
